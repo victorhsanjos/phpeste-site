@@ -1,0 +1,33 @@
+backend:
+  name: bitbucket
+  repo: owner-name/repo-name # Path to your Bitbucket repository
+
+media_folder: "source/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "speakers" # Used in routes, e.g., /admin/collections/blog
+    label: "Speaker" # Used in the UI
+    folder: "_speakers" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "First name", name: "first_name", widget: "string"}
+      - {label: "Last name", name: "last_name", widget: "string"}
+      - {label: "Profession", name: "profession", widget: "string"}
+      - {label: "Website", name: "website", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "speakers" # Used in routes, e.g., /admin/collections/blog
+      label: "Speaker" # Used in the UI
+      folder: "_speakers" # The path to the folder where the documents are stored
+      create: true # Allow users to create new documents in this collection
+      slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+      fields: # The fields for each document, usually in front matter
+        - {label: "First name", name: "first_name", widget: "string"}
+        - {label: "Last name", name: "last_name", widget: "string"}
+        - {label: "Profession", name: "profession", widget: "string"}
+        - {label: "Website", name: "website", widget: "string"}
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Body", name: "body", widget: "markdown"}
