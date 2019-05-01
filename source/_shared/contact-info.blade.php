@@ -4,14 +4,14 @@
           <div class="col-md-4 text-center">
             <div>
               <span class="icon-room text-white h2 d-block"></span>
-              <h2>Where</h2>
+              <h2>Onde</h2>
               <p class="mb-0">{{ $page->event_location }}</p>
             </div>
           </div>
           <div class="col-md-4 text-center">
             <div>
               <span class="icon-clock-o text-white h2 d-block"></span>
-              <h2>When</h2>
+              <h2>Quando</h2>
               <p class="mb-0">{{ $page->event_period }}</p>
             </div>
           </div>

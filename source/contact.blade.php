@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-10 text-center" data-aos="fade">
-            <h1 class="mb-4">Contact</h1>
+            <h1 class="mb-4">Contato</h1>
           </div>
         </div>
       </div>

@@ -11,21 +11,21 @@
           <div class="col-md-6">
             <div class="row">
               <div class="col-md-6">
-                <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
+                <h3 class="footer-heading mb-4 text-white">Menu Rápido</h3>
                   <ul class="list-unstyled">
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/venue">Venue</a></li>
-                    <li><a href="/sponsors">Sponsors</a></li>
-                    <li><a href="#">Get Ticket</a></li>
+                    <li><a href="/about">Sobre</a></li>
+                    <li><a href="/venue">Local</a></li>
+                    <li><a href="/sponsors">Patrocinadores</a></li>
+                    <li><a href="{{ $page->event_ticket ?? '#' }}">Ingressos</a></li>
                     <li><a href="#">News</a></li>
                   </ul>
               </div>
               <div class="col-md-6">
                 <h3 class="footer-heading mb-4 text-white">&nbsp;</h3>
                   <ul class="list-unstyled">
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/contact">Contato</a></li>
                     <li><a href="#">Event</a></li>
-                    <li><a href="#">Be a Sponsor</a></li>
+                    <li><a href="#">Seja um patrocinador</a></li>
                   </ul>
               </div>
             </div>

@@ -25,11 +25,14 @@
                      <!-- d-lg-block -->
                     <ul class="site-menu js-clone-nav d-none">
                       <li class="{{ $page->selected('') }}"><a href="/">Home</a></li>
-                      <li class="{{ $page->selected('speakers') }}"><a href="/speakers">Speakers</a></li>
-                      <li class="{{ $page->selected('venue') }}"><a href="/venue">Venue</a></li>
-                      <li class="{{ $page->selected('sponsors') }}"><a href="/sponsors">Sponsors</a></li>
-                      <li class="{{ $page->selected('about') }}"><a href="/about">About</a></li>
-                      <li class="{{ $page->selected('contact') }}"><a href="/contact">Contact</a></li>
+                      <li class="{{ $page->selected('speakers') }}"><a href="/speakers">Palestrantes</a></li>
+                      <li class="{{ $page->selected('programming') }}"><a href="/programming">Programação</a></li>
+                      <li class="{{ $page->selected('venue') }}"><a href="/venue">Local</a></li>
+                      <li class="{{ $page->selected('sponsors') }}"><a href="/sponsors">Patrocinadores</a></li>
+                      <li class="{{ $page->selected('about') }}"><a href="/about">Sobre</a></li>
+                      <li class="{{ $page->selected('code-of-conduct') }}"><a href="/code-of-conduct">Código de conduta</a></li>
+                      <li class="{{ $page->selected('fag') }}"><a href="/faq">FAQ</a></li>
+                      <li class="{{ $page->selected('contact') }}"><a href="/contact">Contato</a></li>
                     </ul>
                   </div>
                 </nav>

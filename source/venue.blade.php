@@ -5,8 +5,8 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-10 text-center" data-aos="fade">
-            <h1 class="mb-4">Venue</h1>
-            <p>Vancouver, Canada</p>
+            <h1 class="mb-4">Local</h1>
+            <p>Recife, Pernambuco</p>
           </div>
         </div>
       </div>
@@ -20,7 +20,7 @@
             <img src="/assets/images/hero_1.jpg" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-5 col-lg-5 ml-auto">
-            <h2 class="font-weight-bold text-uppercase display-3"><span class="d-block">Vancouver</span> Canada</h2>
+            <h2 class="font-weight-bold text-uppercase display-3"><span class="d-block">Recife</span> Pernambuco</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio molestiae fuga modi delectus? Soluta consequuntur esse, fugit ratione. Nobis deserunt, suscipit ut similique animi tempora. Tempore quaerat autem nihil, accusantium.</p>
             <p>Magnam perferendis commodi necessitatibus officiis aperiam eaque quidem id, sunt itaque eum, laboriosam obcaecati, earum beatae inventore quasi ex tempora veniam? Dolorum voluptatem consequatur nisi, praesentium accusamus rem magni non.</p>
           </div>

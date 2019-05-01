@@ -5,13 +5,13 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-10 text-center" data-aos="fade">
-            <h1 class="mb-4">Speakers</h1>
+            <h1 class="mb-4">Palestrantes</h1>
           </div>
         </div>
       </div>
     </div>
 
-    @include('_shared.speakers', ['title' => 'Speakers'])
+    @include('_shared.speakers', ['title' => 'Palestrantes'])
 
     @include('_shared.block-images', ['image1' => 'images/img_3.jpg', 'image2' => 'images/img_4.jpg'])
 

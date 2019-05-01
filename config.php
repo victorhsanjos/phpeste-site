@@ -3,8 +3,9 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'event_name' => 'Confe.',
-    'event_location' => 'Vancouver',
+    'event_name' => 'PHPeste',
+    'event_ticket' => null,
+    'event_location' => 'Recife',
     'event_period' => 'April 17-21, 2019',
     'event_contact_email' => 'info@yoursite.com',
     'event_facebook' => '',
@@ -12,6 +13,10 @@ return [
     'event_instagram' => '',
     'event_vimeo' => '',
     'collections' => [
+        'organizers' => [
+            'path' => 'organizers',
+            'sort' => 'first_name',
+        ],
         'speakers' => [
             'path' => 'speakers',
             'sort' => 'first_name',
