@@ -1,6 +1,6 @@
 ---
 extends: _layouts.speaker
-image: images/person_4.jpg
+image: person_4.jpg
 first_name: Justin
 last_name: Clark
 profession: Business Consultant in Slack

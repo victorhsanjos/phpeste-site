@@ -1,6 +1,6 @@
 ---
 extends: _layouts.speaker
-image: images/person_3.jpg
+image: person_3.jpg
 first_name: Jean
 last_name: Keenan
 profession: Business Consultant in Medium

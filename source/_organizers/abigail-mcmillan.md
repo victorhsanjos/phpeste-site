@@ -1,6 +1,6 @@
 ---
 extends: _layouts.speaker
-image: images/person_2.jpg
+image: person_2.jpg
 first_name: Abigail
 last_name: McMillan
 profession: Business Consultant in Facebook

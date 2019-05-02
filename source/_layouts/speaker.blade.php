@@ -17,7 +17,7 @@
         
         <div class="row">
           <div class="col-md-6 col-lg-6 mb-4">
-            <img src="/assets/{{ $page->image }}" alt="Image" class="img-fluid">
+            <img src="/assets/images/uploads/{{ $page->image }}" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-5 col-lg-5 ml-auto">
             <h2 class="font-weight-bold text-uppercase display-3"><span class="d-block">{{ $page->first_name }}</span> {{ $page->last_name }}</h2>
