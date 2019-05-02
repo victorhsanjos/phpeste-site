@@ -34,3 +34,13 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Section", name: "section", widget: "hidden", default: "info"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Page" # Used in the UI
+    folder: "source" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.simple-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Section", name: "section", widget: "hidden", default: "pageContent"}
+      - {label: "Body", name: "body", widget: "markdown"}    
