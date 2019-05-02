@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-10 text-center" data-aos="fade">
-            <p>Speaker</p>
+            <p>Palestrante</p>
             <h1 class="mb-4">{{ $page->first_name }} {{ $page->last_name }}</h1>
           </div>
         </div>
