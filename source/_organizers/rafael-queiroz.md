@@ -1,8 +1,8 @@
 ---
 extends: _layouts.speaker
 image: person_3.jpg
-first_name: Jean
-last_name: Keenan
+first_name: Rafael
+last_name: Queiroz
 profession: Business Consultant in Medium
 website:
 section: info

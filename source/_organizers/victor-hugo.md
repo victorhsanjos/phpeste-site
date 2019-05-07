@@ -1,7 +1,7 @@
 ---
 extends: _layouts.speaker
-first_name: Ana
-last_name: Morais
+first_name: Victor
+last_name: Hugo
 profession: Business Consultant in Bandeirantes
 website: '#'
 image: person_2.jpg

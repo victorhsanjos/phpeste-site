@@ -1,7 +1,7 @@
 ---
 extends: _layouts.speaker
-first_name: Alan
-last_name: Forster
+first_name: Ramon
+last_name: Vicente
 profession: Business Consultant in WordPress
 website: '#'
 image: person_5.jpg
