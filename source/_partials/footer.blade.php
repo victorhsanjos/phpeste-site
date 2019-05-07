@@ -4,9 +4,9 @@
 
         <div class="row">
           <div class="col-md-4">
-            <h3 class="footer-heading mb-4 text-white">About</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos rem ullam, placeat amet.</p>
-            <p><a href="#" class="btn btn-primary pill text-white px-4">Read More</a></p>
+            <h3 class="footer-heading mb-4 text-white">Sobre</h3>
+            <p>O PHPeste visa reunir os desenvolvedores, estudantes, entusiastas, e amantes da linguagem de programação PHP, não só do Brasil, mas do mundo.</p>
+            <p><a href="/about" class="btn btn-primary pill text-white px-4">Leia mais</a></p>
           </div>
           <div class="col-md-6">
             <div class="row">
@@ -14,18 +14,18 @@
                 <h3 class="footer-heading mb-4 text-white">Menu Rápido</h3>
                   <ul class="list-unstyled">
                     <li><a href="/about">Sobre</a></li>
-                    <li><a href="/venue">Local</a></li>
+                    <!--<li><a href="/venue">Local</a></li>-->
                     <li><a href="/sponsors">Patrocinadores</a></li>
                     <li><a href="{{ $page->event_ticket ?? '#' }}">Ingressos</a></li>
-                    <li><a href="#">News</a></li>
+                    <!--<li><a href="#">News</a></li>-->
                   </ul>
               </div>
               <div class="col-md-6">
                 <h3 class="footer-heading mb-4 text-white">&nbsp;</h3>
                   <ul class="list-unstyled">
                     <li><a href="/contact">Contato</a></li>
-                    <li><a href="#">Event</a></li>
-                    <li><a href="#">Seja um patrocinador</a></li>
+                    <!--<li><a href="#">Event</a></li>-->
+                    @if ($page->event_contact_email)<li><a href="mailto:{{ $page->event_contact_email ?? '#' }}">Seja um patrocinador</a></li>@endif
                   </ul>
               </div>
             </div>

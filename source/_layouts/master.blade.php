@@ -21,6 +21,7 @@
 
   @include('_partials.scripts')
 
+  @stack('scripts')s
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {

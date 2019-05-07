@@ -7,7 +7,7 @@
         </div>
         <div class="row">
           
-        @foreach ($speakers as $speaker)
+        @forelse ($speakers as $speaker)
           <div class="col-md-6 col-lg-4 mb-4">
             <div class="speaker text-left">
               <a href="{{ $speaker->getPath() }}" class="d-block mb-3 thumbnail"><img src="/assets/images/uploads/{{ $speaker->image }}" alt="Image" class="img-fluid"></a>
@@ -15,7 +15,11 @@
               <p>{{ $speaker->profession }}</p>
             </div>
           </div>
-        @endforeach
+        @empty
+            <div class="col-md-12 col-lg-12 mb-4">
+              <h1 class="text-center">Seja um <a href="mailto:{{ $page->event_contact_email ?? '#' }}">palestrante</a>!</h1>
+            </div>
+        @endforelse
 
         </div>
       </div>

@@ -5,12 +5,12 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-10 text-center" data-aos="fade">
-            <h1 class="mb-4">The Challenges of Business Innovation</h1>
+            <h1 class="mb-4">Maior conferência do nordeste</h1>
             <p class="mb-5">{{ $page->event_period }} &bullet; {{ $page->event_location }}</p>
             <p class="regular-font-size">
               <a href="{{ $page->event_ticket ?? '#' }}" class="btn btn-primary px-4 py-3 text-uppercase">Ingressos</a>
-              <span class="mx-3">or</span>
-              <a href="#" class="text-white">Learn More</a>
+              <span class="mx-3">ou</span>
+              <a href="/about" class="text-white">Saber mais</a>
             </p>
           </div>
         </div>
@@ -25,11 +25,11 @@
 
     @include('_shared.block-images', ['image1' => 'images/img_3.jpg', 'image2' => 'images/img_4.jpg'])
 
-    @include('_shared.why-us')
+    {{-- @include('_shared.why-us') --}}
 
     @include('_shared.sponsors', ['title' => 'Patrocinadores'])
 
-    @include('_events')
+    {{-- @include('_events') --}}
 
-    @include('_shared.contact-info')
+@include('_shared.contact-info')
 @endsection

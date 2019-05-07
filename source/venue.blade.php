@@ -33,7 +33,7 @@
 
     @include('_shared.block-images', ['image1' => 'images/img_4.jpg', 'image2' => 'images/img_3.jpg'])
 
-    @include('_shared.why-us')
+    {{-- @include('_shared.why-us') --}}
 
     @include('_shared.contact-info')
 @endsection

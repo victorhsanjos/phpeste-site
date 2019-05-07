@@ -6,7 +6,7 @@ return [
     'event_name' => 'PHPeste',
     'event_ticket' => null,
     'event_location' => 'Recife',
-    'event_period' => 'April 17-21, 2019',
+    'event_period' => 'Em breve',
     'event_contact_email' => 'contato@phpeste.net',
     'event_facebook' => '',
     'event_twitter' => '',

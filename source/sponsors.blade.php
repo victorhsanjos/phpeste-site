@@ -5,17 +5,17 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-10 text-center" data-aos="fade">
-            <h1 class="mb-4">Sponsors</h1>
+            <h1 class="mb-4">Patrocinadores</h1>
           </div>
         </div>
       </div>
     </div>
 
-    @include('_shared.sponsors', ['title' => 'Great Companies'])
+    @include('_shared.sponsors', ['title' => 'Grandes empresas'])
 
     @include('_shared.block-images', ['image1' => 'images/img_4.jpg', 'image2' => 'images/img_3.jpg'])
 
-    @include('_shared.why-us')
+    {{-- @include('_shared.why-us') --}}
 
     @include('_shared.contact-info')
 @endsection

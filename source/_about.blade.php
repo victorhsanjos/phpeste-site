@@ -7,8 +7,8 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-7">
-            <h3 class="regular-font-size text-uppercase mb-3">Conferência começa em</h3>
-            <div id="date-countdown" class="mb-4"></div>
+            <!--<h3 class="regular-font-size text-uppercase mb-3">Conferência começa em</h3>
+            <div id="date-countdown" class="mb-4"></div>-->
             <p>
               PHPeste é uma conferência de PHP organizada pelas comunidades “cabra da peste” do nordeste brasileiro.
               O evento já passou por João Pessoa (PB), Salvador (BA), Fortaleza(CE), São Luis(MA) e agora é a vez de

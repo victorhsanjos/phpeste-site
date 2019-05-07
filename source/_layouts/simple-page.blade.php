@@ -21,7 +21,7 @@
       </div>
     </div>
 
-    @include('_shared.why-us')
+    {{-- @include('_shared.why-us') --}}
 
     @include('_shared.contact-info')
 @endsection
