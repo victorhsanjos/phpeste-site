@@ -1,10 +1,10 @@
 ---
 extends: _layouts.speaker
-image: person_3.jpg
 first_name: Fábio
 last_name: Fernandes
-profession: Business Consultant in Medium
-website:
+profession: Organizador
+website: 'https://fabio-fernandes.com/'
+image: /assets/images/uploads/team1-1-.jpg
 section: info
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio molestiae fuga modi delectus? Soluta consequuntur esse, fugit ratione. Nobis deserunt, suscipit ut similique animi tempora. Tempore quaerat autem nihil, accusantium.
+Divide o tempo entre aprendizado contínuo e trabalho, graduado em Sistema de Informação, especialista em gestão de projetos e de sistemas web, desenvolvedor web desde 2006 focado em sistemas corporativos e soluções de e-commerce, palestrante e instrutor. Busca sempre compartilhar seus conhecimentos visando um bom código.
