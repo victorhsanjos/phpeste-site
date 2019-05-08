@@ -8,6 +8,7 @@ return [
     'event_location' => 'Recife',
     'event_period' => 'Em breve',
     'event_contact_email' => 'contato@phpeste.net',
+    'submit_link_lecture' => 'https://speakerfight.com/events/call4papers-phpeste-2019-recifepe/',
     'event_facebook' => '',
     'event_twitter' => '',
     'event_instagram' => '',
