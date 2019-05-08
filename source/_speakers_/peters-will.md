@@ -1,6 +1,6 @@
 ---
 extends: _layouts.speaker
-image: person_1.jpg
+image: /assets/images/uploads/person_1.jpg
 first_name: Will
 last_name: Peters
 profession: Business Consultant in Google

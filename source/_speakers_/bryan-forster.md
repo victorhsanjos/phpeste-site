@@ -1,6 +1,6 @@
 ---
 extends: _layouts.speaker
-image: person_5.jpg
+image: /assets/images/uploads/person_5.jpg
 first_name: Brian
 last_name: Forster
 profession: Business Consultant in WordPress

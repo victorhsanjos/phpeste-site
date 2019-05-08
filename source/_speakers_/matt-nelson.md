@@ -1,6 +1,6 @@
 ---
 extends: _layouts.speaker
-image: person_6.jpg
+image: /assets/images/uploads/person_6.jpg
 first_name: Matt
 last_name: Nelson
 profession: Business Consultant in Evernote

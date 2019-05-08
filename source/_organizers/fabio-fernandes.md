@@ -1,5 +1,5 @@
 ---
-extends: _layouts.speaker
+extends: _layouts.organizer
 first_name: Fábio
 last_name: Fernandes
 profession: Organizador

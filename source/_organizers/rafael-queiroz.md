@@ -1,6 +1,6 @@
 ---
-extends: _layouts.speaker
-image: person_3.jpg
+extends: _layouts.organizer
+image: /assets/images/uploads/person_3.jpg
 first_name: Rafael
 last_name: Queiroz
 profession: Business Consultant in Medium
