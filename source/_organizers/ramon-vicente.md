@@ -2,7 +2,7 @@
 extends: _layouts.organizer
 first_name: Ramon
 last_name: Vicente
-profession: Business Consultant in WordPress
+profession: Organizador
 website: '#'
 image: /assets/images/uploads/person_5.jpg
 section: info
