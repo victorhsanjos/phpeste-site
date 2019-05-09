@@ -34,7 +34,6 @@
               <h2>Sua empresa aqui</h2>
               <div class="row justify-content-center">
                 <div class="col-md-7">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda quisquam in illo, odit debitis praesentium velit laborum quaerat, doloribus eius consectetur! Tempore reprehenderit delectus ducimus nisi quidem distinctio, excepturi! Libero.</p>
                   <p><a href="mailto:{{ $page->event_contact_email ?? '#' }}" class="btn btn-primary px-4 py-2">Torne-se um patrocinador</a></p>
                 </div>
               </div>
