@@ -140,7 +140,7 @@ a {
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
-  color: rgba(255, 255, 255, 0.5);
+  color: #fff;
   position: relative; }
   .site-footer:before {
     position: absolute;
@@ -153,9 +153,9 @@ a {
   .site-footer .footer-heading {
     font-size: 20px; }
   .site-footer a {
-    color: rgba(255, 255, 255, 0.3); }
+    color: #fff; }
     .site-footer a:hover {
-      color: #fff; }
+      color: #c7180c; }
   .site-footer ul li {
     margin-bottom: 10px; }
 
