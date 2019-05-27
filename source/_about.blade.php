@@ -2,7 +2,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-7 mx-auto text-left section-heading">
-            <h2 class="mb-5 text-uppercase">Sobre a Conferência</h2>
+            <h2 class="mb-5 text-uppercase">A conferência</h2>
           </div>
         </div>
         <div class="row justify-content-center">
@@ -23,7 +23,7 @@
               profissionalização, e claro, a inclusão de novos desenvolvedores, tornando assim o mercado cada vez mais
               especializado.
             </p>
-            <p><a href="{{ $page->event_ticket ?? '#' }}" class="btn btn-primary px-4 py-2">Obtenha seu ingresso agora</a></p>
+            <p><a href="http://bit.ly/2GIYBdJ" target="_blank" class="btn btn-primary px-4 py-2">Saiba mais em nossa apresentação</a></p>
           </div>
         </div>
       </div>

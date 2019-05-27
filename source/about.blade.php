@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-10 text-center" data-aos="fade">
-            <h1 class="mb-4">Sobre a Conferência</h1>
+            <h1 class="mb-4">A conferência</h1>
           </div>
         </div>
       </div>
@@ -19,7 +19,7 @@
             <img src="/assets/images/img_4.jpg" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-5 col-lg-5 ml-auto">
-            <h2 class="font-weight-bold text-uppercase display-3"><span class="d-block">O</span>PHPeste</h2>
+            <h2 class="font-weight-bold text-uppercase display-3">O PHPeste</h2>
             <p>
                 PHPeste é uma conferência de PHP organizada pelas comunidades “cabra da peste” do nordeste brasileiro.
                 O evento já passou por João Pessoa (PB), Salvador (BA), Fortaleza(CE), São Luis(MA) e agora é a vez de
