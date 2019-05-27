@@ -7,6 +7,14 @@
 
     @include('_partials.styles')
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-65548481-8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-65548481-8');
+    </script>
   </head>
   <body>
   
