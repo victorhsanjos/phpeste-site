@@ -6,7 +6,7 @@
           </div>
         </div>
         <div class="row justify-content-center">
-          <div class="col-7">
+          <div class="col-12">
             <!--<h3 class="regular-font-size text-uppercase mb-3">Conferência começa em</h3>
             <div id="date-countdown" class="mb-4"></div>-->
             <p>
@@ -23,7 +23,7 @@
               profissionalização, e claro, a inclusão de novos desenvolvedores, tornando assim o mercado cada vez mais
               especializado.
             </p>
-            <p><a href="http://bit.ly/2GIYBdJ" target="_blank" class="btn btn-primary px-4 py-2">Saiba mais em nossa apresentação</a></p>
+            <a href="http://bit.ly/2GIYBdJ" target="_blank" class="btn btn-primary px-4 py-2">Saiba mais em nossa apresentação</a>
           </div>
         </div>
       </div>
