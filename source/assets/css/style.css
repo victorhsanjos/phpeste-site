@@ -206,6 +206,13 @@ a {
   .bg-sm-height {
     height: 300px; } }
 
+@media only screen and (max-width: 400px) {
+  p.regular-font-size {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 /* Navbar */
 .site-navbar-top {
   display: none;
@@ -354,6 +361,12 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease; }
+  .site-navbar-wrap .site-logo a {
+    font-size: 1.9rem;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 1px #333;
+  }
   .site-navbar-wrap .site-menu-toggle span {
     color: #fff; }
   .site-navbar-wrap .site-navbar .site-logo a {
@@ -540,7 +553,8 @@ a {
     font-weight: 900;
     color: #fff;
     text-transform: uppercase;
-    font-size: 2rem; }
+    font-size: 2rem;
+    text-shadow: 2px 1px 2px #999; }
     @media (min-width: 992px) {
       .site-blocks-cover h1 {
         font-size: 4rem;
@@ -1362,8 +1376,14 @@ a {
   font-weight: bold; }
   @media (max-width: 991.98px) {
     .section-heading h2 {
-      font-size: 2.5rem; } }
+      font-size: 1.5rem; } }
 
+  @media only screen and (max-width: 400px) {
+    body > div > div:nth-child(4) > div > div.row.justify-content-center > div > a {
+      width: 100%;
+      font-size: 14px !important;
+    }
+  }
 .section-heading.text-left h2:before, .section-heading.text-left h2:after {
   left: 0;
   -webkit-transform: translateX(0%);
