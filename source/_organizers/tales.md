@@ -1,14 +1,13 @@
 ---
 extends: _layouts.organizer
-first_name: Fábio
-last_name: Fernandes
+first_name: Tales
+last_name: Andrade
 profession: Organizador
-website: "https://fabio-fernandes.com/"
-image: /assets/images/uploads/me.jpg
+image: /assets/images/uploads/tales.jpg
 social:
-  LinkedIn: "https://www.linkedin.com/in/jfabiofl"
-  Github: "https://github.com/jfabiofl"
-  Twitter: "https://twitter.com/jfabiofl"
+  LinkedIn: "https://www.linkedin.com/in/talesandrade"
+  Github: "https://github.com/talesandrade"
+  Twitter: "https://twitter.com/tales_txt"
 section: info
 ---
 
