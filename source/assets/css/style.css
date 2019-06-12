@@ -92,6 +92,36 @@ a {
       background: #fff;
       color: #000; }
 
+.organizer_rede {
+  display: flex;
+}
+.organizer_rede p {
+  margin-top: 2px !important;
+  margin-bottom: 0rem !important;
+}
+.organizer h3 {
+  margin-top: 6px;
+}
+.organizer_rede > ul {
+  list-style: none;
+  display: flex;
+  padding-left: 1.5rem;
+}
+.organizer_rede > ul > li {
+  margin-right: .5rem !important;
+}
+
+.organizer_rede img {
+  width: 15px;
+  height: 15px !important;
+}
+
+@media only screen and (min-width: 769px) {
+  body > div > div:nth-child(6) > div > div:nth-child(2) img {
+    height: 14rem;
+  }
+}
+
 .bg-black {
   background: #000; }
 

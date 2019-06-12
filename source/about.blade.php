@@ -66,11 +66,22 @@
             </div>
             <div class="row">
                 @foreach ($organizers as $organizer)
-                    <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="col-md-6 col-lg-3 col-sm-12 mb-2">
                         <div class="organizer text-left">
-                            <a href="{{ $organizer->getPath() }}" class="d-block mb-3 thumbnail"><img src="{{ $organizer->image }}" alt="Image" class="img-fluid"></a>
-                            <h3 class="heading mb-0"><a href="#"><span>{{ $organizer->first_name }}</span> {{ $organizer->last_name }}</a></h3>
-                            <p>{{ $organizer->profession }}</p>
+                            <img src="{{ $organizer->image }}" alt="Image" class="img-fluid">
+                            <h3 class="heading mb-0 mt-6"><a href="#"><span>{{ $organizer->first_name }}</span> {{ $organizer->last_name }}</a></h3>
+                            <div class="organizer_rede">
+                              <p>{{ $organizer->profession }}</p>
+                              <ul>
+                                @foreach ($organizer->social ?? [] as $key => $item)
+                                  <li>
+                                    <a href="{{ $item }}" alt="{{ $key }}">
+                                      <img src="{{ '/assets/images/' . strtolower($key) . '.png' }}" />
+                                    </a>
+                                  </li>
+                                @endforeach
+                              </ul>
+                            </div>
                         </div>
                     </div>
                 @endforeach

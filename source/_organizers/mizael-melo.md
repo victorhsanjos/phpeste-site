@@ -1,14 +1,13 @@
 ---
 extends: _layouts.organizer
-first_name: Fábio
-last_name: Fernandes
+first_name: Mizael
+last_name: Melo
 profession: Organizador
 website: "https://fabio-fernandes.com/"
-image: /assets/images/uploads/me.jpg
+image: /assets/images/uploads/mizael.jpg
 social:
-  LinkedIn: "https://www.linkedin.com/in/jfabiofl"
-  Github: "https://github.com/jfabiofl"
-  Twitter: "https://twitter.com/jfabiofl"
+  LinkedIn: "https://www.linkedin.com/in/mizael-melo-953710109"
+  Github: "https://github.com/mizamelo"
 section: info
 ---
 
