@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => '',
     'event_name' => 'PHPeste',
-    'event_ticket' => null,
+    'event_ticket' => 'https://loja.phpeste.net/phpeste-2019',
     'event_location' => 'Recife/PE',
     'event_period' => '19 e 20 de outubro',
     'event_contact_email' => 'contato@phpeste.net',
