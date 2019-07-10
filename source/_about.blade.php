@@ -12,7 +12,7 @@
             <p>
               PHPeste é uma conferência de PHP organizada pelas comunidades “cabra da peste” do nordeste brasileiro.
               O evento já passou por João Pessoa (PB), Salvador (BA), Fortaleza(CE), São Luis(MA) e agora é a vez de
-              Recife(PE) sediar um dos maiores eventos de PHP do Brasil. Serão três dias de muito aprendizado,
+              Recife(PE) sediar um dos maiores eventos de PHP do Brasil. Serão dois dias de muito aprendizado,
               muita mão na massa e, principalmente, de gente “arretada da peste” que irá ampliar ainda mais seu
               networking. O evento contará com a participação de palestrantes de altíssimo nível, minicursos práticos,
               e conversas focadas na temática do evento: crescimento e colaboração.
