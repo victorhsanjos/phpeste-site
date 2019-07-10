@@ -71,7 +71,7 @@
                             <img src="{{ $organizer->image }}" alt="Image" class="img-fluid">
                             <h3 class="heading mb-0 mt-6"><a href="#"><span>{{ $organizer->first_name }}</span> {{ $organizer->last_name }}</a></h3>
                             <div class="organizer_rede">
-                              <p>{{ $organizer->profession }}</p>
+                              <!-- <p>{{ $organizer->profession }}</p> -->
                               <ul>
                                 @foreach ($organizer->social ?? [] as $key => $item)
                                   <li>

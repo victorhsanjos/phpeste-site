@@ -105,7 +105,7 @@ a {
 .organizer_rede > ul {
   list-style: none;
   display: flex;
-  padding-left: 1.5rem;
+  padding-left: 0;
 }
 .organizer_rede > ul > li {
   margin-right: .5rem !important;
