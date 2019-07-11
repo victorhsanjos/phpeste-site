@@ -6,7 +6,9 @@ profession: Organizador
 website: "#"
 image: /assets/images/uploads/victor.jpg
 social:
+  LinkedIn: "https://www.linkedin.com/in/victorhsanjos/"
   Github: "http://github.com/victorhsanjos"
+  Twitter: "https://twitter.com/victorhsanjos"
 section: info
 ---
 
