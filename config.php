@@ -13,10 +13,31 @@ return [
     'event_twitter' => 'https://twitter.com/phpestene',
     'event_instagram' => '',
     'event_vimeo' => '',
+    'categories' => [
+        'diamond' => [
+            'description' => 'Diamante',
+        ],
+        'gold' => [
+            'description' => 'Ouro',
+        ],
+        'silver' => [
+            'description' => 'Prata',
+        ],
+        'bronze' => [
+            'description' => 'Bronze',
+        ],
+        'support' => [
+            'description' => 'Apoio',
+        ],
+    ],
     'collections' => [
         'organizers' => [
             'path' => 'organizers',
             'sort' => 'first_name',
+        ],
+        'sponsors' => [
+            'path' => 'sponsors',
+            'sort' => 'name',
         ],
         'speakers' => [
             'path' => 'speakers',
