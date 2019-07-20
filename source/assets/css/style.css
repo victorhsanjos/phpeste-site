@@ -1499,3 +1499,7 @@ a {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
     transform: scale(1.05); }
+
+body > div.site-wrap > div.site-section.comunidades {
+  padding: 0 !important;
+}
