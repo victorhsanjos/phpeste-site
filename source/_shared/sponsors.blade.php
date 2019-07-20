@@ -5,8 +5,23 @@
             <h2 class="mb-5 text-uppercase">{{ $title }}</h2>
           </div>
         </div>
+        @foreach ($page->categories as $key => $category)
+          <div class="row mb-5">
+            <div class="col-md-12 text-left section-heading">
+              <h4 class="mb-5 text-uppercase">{{ $category->description }}</h4>
+            </div>
+            @foreach ($sponsors as $sponsor)
+              @if ($sponsor->type === $key)
+                <div class="col-6 col-md-6 col-lg-4">
+                  <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
+                </div>
+              @endif
+            @endforeach
+          </div>
+        @endforeach
+      
         <div class="row mb-5">
-          <!--<div class="col-6 col-md-6 col-lg-4">
+          {{--  <!--<div class="col-6 col-md-6 col-lg-4">
             <img src="/assets/images/logo_1.png" alt="Image" class="img-fluid">
           </div>
           <div class="col-6 col-md-6 col-lg-4">
@@ -23,7 +38,7 @@
           </div>
           <div class="col-6 col-md-6 col-lg-4">
             <img src="/assets/images/logo_6.png" alt="Image" class="img-fluid">
-          </div>-->
+          </div>-->  --}}
           <div class="col-md-12 col-lg-12 mb-4">
             <h1 class="text-center">Seja um <a href="mailto:{{ $page->event_contact_email ?? '#' }}">patrocinador</a>!</h1>
           </div>

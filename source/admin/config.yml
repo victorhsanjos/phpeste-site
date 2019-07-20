@@ -34,6 +34,16 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Section", name: "section", widget: "hidden", default: "info"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "sponsors"
+    label: "Sponsors"
+    folder: "source/_sponsors"
+    create: true
+    slug: "{{slug}}"
+    fileds:
+      - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.simple-page"}
+      - {label: "Description", name: "name", widget: "string"}
+      - {label: "Type", name: "type", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     folder: "source" # The path to the folder where the documents are stored
