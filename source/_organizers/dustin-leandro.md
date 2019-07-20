@@ -1,14 +1,11 @@
 ---
 extends: _layouts.organizer
-first_name: Fábio
-last_name: Fernandes
+first_name: Dustin
+last_name: Leandro
 profession: Organizador
-website: "https://fabio-fernandes.com/"
-image: /assets/images/uploads/me.jpg
+image: /assets/images/uploads/dustin.jpg
 social:
-  LinkedIn: "https://www.linkedin.com/in/jfabiofl"
-  Github: "https://github.com/jfabiofl"
-  Twitter: "https://twitter.com/jfabiofl"
+  LinkedIn: "https://www.linkedin.com/in/dustin-leandro-9187a1115/"
 section: info
 ---
 

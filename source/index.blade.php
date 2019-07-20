@@ -6,7 +6,7 @@
         <div class="row align-items-center justify-content-center">
           <div class="col-md-10 text-center" data-aos="fade">
             <h1 class="mb-4">Maior conferência PHP do nordeste</h1>
-            <p class="mb-5">{{ $page->event_period }} &bullet; {{ $page->event_location }}</p>
+            <p class="mb-5">{{ $page->event_period }} &bullet; <a class="maps" href="https://goo.gl/maps/7uvqM9mvrsgcop8q9" target="_blank">{{ $page->event_location }}</a></p>
             <p class="regular-font-size">
               <a href="{{ $page->event_ticket ?? '#' }}" class="btn btn-primary px-4 py-3 text-uppercase">Ingressos</a>
               <span class="mx-3">ou</span>
