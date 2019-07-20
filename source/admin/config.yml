@@ -39,7 +39,7 @@ collections:
     folder: "source/_sponsors"
     create: true
     slug: "{{slug}}"
-    fileds:
+    fields:
       - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.simple-page"}
       - {label: "Description", name: "name", widget: "string"}
       - {label: "Type", name: "type", widget: "string"}
