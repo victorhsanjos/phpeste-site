@@ -57,6 +57,25 @@
       </div>
     </div>
 
+    <div class="site-section comunidades">
+      <div class="container">
+        <div class="row">
+            <div class="col-6 col-md-6 col-lg-4">
+              <img src="/assets/images/comunidades/phppe.jpg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-6 col-lg-4">
+              <img src="/assets/images/comunidades/php-pb.jpg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-6 col-lg-4">
+              <img src="/assets/images/comunidades/phpba.png" alt="Image" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-6 col-lg-4">
+              <img src="/assets/images/comunidades/phpcomrapadura.png" alt="Image" class="img-fluid">
+            </div>
+          </div>
+      </div>
+    </div>
+
     <div class="site-section">
         <div class="container">
             <div class="row">
