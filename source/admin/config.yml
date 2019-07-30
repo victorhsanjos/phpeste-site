@@ -10,6 +10,7 @@ collections:
     label: "Organizer" # Used in the UI
     folder: "source/_organizers" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    identifier_field: name
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.speaker"}
@@ -24,6 +25,7 @@ collections:
     label: "Speaker" # Used in the UI
     folder: "source/_speakers" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    identifier_field: name
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.speaker"}
@@ -38,6 +40,7 @@ collections:
     label: "Sponsors"
     folder: "source/_sponsors"
     create: true
+    identifier_field: name
     slug: "{{slug}}"
     fields:
       - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.simple-page"}
