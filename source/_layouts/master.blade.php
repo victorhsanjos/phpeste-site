@@ -15,6 +15,16 @@
 
       gtag('config', 'UA-65548481-8');
     </script>
+    <link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "5bb5d0b3-e517-40bd-9b9b-ea83c7a95c22",
+    });
+  });
+</script>
   </head>
   <body>
   
