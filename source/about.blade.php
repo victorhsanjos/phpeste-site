@@ -61,16 +61,25 @@
       <div class="container">
         <div class="row">
             <div class="col-6 col-md-6 col-lg-4">
-              <img src="/assets/images/comunidades/phppe.jpg" alt="Image" class="img-fluid">
+              <img src="/assets/images/comunidades/php-pe.jpg" alt="Image" class="img-fluid">
             </div>
             <div class="col-6 col-md-6 col-lg-4">
               <img src="/assets/images/comunidades/php-pb.jpg" alt="Image" class="img-fluid">
             </div>
             <div class="col-6 col-md-6 col-lg-4">
-              <img src="/assets/images/comunidades/phpba.png" alt="Image" class="img-fluid">
+              <img src="/assets/images/comunidades/php-ba.jpg" alt="Image" class="img-fluid">
             </div>
             <div class="col-6 col-md-6 col-lg-4">
-              <img src="/assets/images/comunidades/phpcomrapadura.png" alt="Image" class="img-fluid">
+              <img src="/assets/images/comunidades/php-com-rapadura.jpg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-6 col-lg-4">
+              <img src="/assets/images/comunidades/php-sp.jpg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-6 col-lg-4">
+              <img src="/assets/images/comunidades/php-ma.jpg" alt="Image" class="img-fluid">
+            </div>
+            <div class="col-6 col-md-6 col-lg-4">
+              <img src="/assets/images/comunidades/php-rn.jpg" alt="Image" class="img-fluid">
             </div>
           </div>
       </div>
