@@ -3,11 +3,8 @@ extends: _layouts.organizer
 first_name: Mizael
 last_name: Melo
 profession: Organizador
-website: "https://fabio-fernandes.com/"
-image: /assets/images/uploads/mizael.jpg
-social:
-  LinkedIn: "https://www.linkedin.com/in/mizael-melo-953710109"
-  Github: "https://github.com/mizamelo"
+website: 'https://fabio-fernandes.com/'
+image: /assets/images/uploads/mizael-melo.jpg
 section: info
 ---
 
