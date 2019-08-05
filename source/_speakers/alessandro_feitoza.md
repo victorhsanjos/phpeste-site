@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Alessandro
 last_name: Feitoza
-profession: Desenvolvedor & Professor
+profession: Workshop
 website: 'https://www.linkedin.com/in/alessandrofeitoza/'
 image: /assets/images/uploads/alessandro-php-rapadura.jpg
 section: info
