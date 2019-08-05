@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Adiel
 last_name: Cristo
-profession: Senior PHP Developer
+profession: Palestrante
 website: 'http://phpba.com.br'
 image: /assets/images/uploads/adiel.jpg
 section: info
