@@ -3,10 +3,8 @@ extends: _layouts.organizer
 first_name: Luiz
 last_name: Cláudio
 profession: Organizador
-image: /assets/images/uploads/luiz.jpg
-social:
-  LinkedIn: "https://www.linkedin.com/in/luiz-claudio-siqueira-1386323b/"
-  Github: "https://github.com/luiz-claudio"
+website: 'https://phpeste.net'
+image: /assets/images/uploads/luiz-claudio.jpg
 section: info
 ---
 
