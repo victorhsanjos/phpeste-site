@@ -25,13 +25,14 @@
                      <!-- d-lg-block -->
                     <ul class="site-menu js-clone-nav d-none">
                       <li class="{{ $page->selected('') }}"><a href="/">Home</a></li>
-                      <li class="{{ $page->selected('speakers') }}"><a href="/speakers">Palestrantes</a></li>
-                      <li class="{{ $page->selected('programming') }}"><a href="/programming">Programação</a></li>
-                      {{-- <li class="{{ $page->selected('venue') }}"><a href="/venue">Local</a></li> --}}
-                      {{-- <li class="{{ $page->selected('sponsors') }}"><a href="/sponsors">Patrocinadores</a></li> --}}
                       <li class="{{ $page->selected('about') }}"><a href="/about">Sobre</a></li>
+                      <li class="{{ $page->selected('programming') }}"><a href="/programming">Programação</a></li>
+                      <li class="{{ $page->selected('workshops) }}"><a href="/workshops">Workshops</a></li>
+                      <li class="{{ $page->selected('speakers') }}"><a href="/speakers">Palestrantes</a></li>
+                      <li class="{{ $page->selected('sponsors') }}"><a href="/sponsors">Patrocinadores</a></li>
                       <li class="{{ $page->selected('code-of-conduct') }}"><a href="/code-of-conduct">Código de conduta</a></li>
-                      {{-- <li class="{{ $page->selected('faq') }}"><a href="/faq">FAQ</a></li> --}}
+                      <li><a href="http://loja.phpeste.net" target="_blank">Ingressos</a></li>
+                      <li><a href="https://www.depassaporte.com.br/phpeste" target="_blank">Passagens aéreas</a></li>
                       <li class="{{ $page->selected('contact') }}"><a href="/contact">Contato</a></li>
                     </ul>
                   </div>

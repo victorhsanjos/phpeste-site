@@ -14,18 +14,19 @@
                 <h3 class="footer-heading mb-4 text-white">Menu Rápido</h3>
                   <ul class="list-unstyled">
                     <li><a href="/about">Sobre</a></li>
-                    <!--<li><a href="/venue">Local</a></li>-->
                     <li><a href="/sponsors">Patrocinadores</a></li>
                     <li><a href="{{ $page->event_ticket ?? '#' }}">Ingressos</a></li>
-                    <!--<li><a href="#">News</a></li>-->
+                    <li><a href="/speakers">Palestrantes</a></li>
+                    <li><a href="https://www.depassaporte.com.br/phpeste" target="_blank">Passagens aéreas</a></li>
                   </ul>
-              </div>
-              <div class="col-md-6">
-                <h3 class="footer-heading mb-4 text-white">&nbsp;</h3>
+                </div>
+                <div class="col-md-6">
+                  <h3 class="footer-heading mb-4 text-white">&nbsp;</h3>
                   <ul class="list-unstyled">
                     <li><a href="/contact">Contato</a></li>
-                    <!--<li><a href="#">Event</a></li>-->
-                    @if ($page->event_contact_email)<li><a href="mailto:{{ $page->event_contact_email ?? '#' }}">Seja um patrocinador</a></li>@endif
+                    <li><a href="/workshops">Workshops</a></li>
+                    <li><a href="/programming">Programação</a></li>
+                    <li><a href="/contact">Seja um patrocinador</a></li>
                   </ul>
               </div>
             </div>
