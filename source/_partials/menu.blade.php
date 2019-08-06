@@ -24,10 +24,10 @@
                     <div class="d-inline-block  ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu h3"></span></a></div>
                      <!-- d-lg-block -->
                     <ul class="site-menu js-clone-nav d-none">
-                      <li class="{{ $page->selected('') }}"><a href="/">Home</a></li>
+                      <li><a href="/">Home</a></li>
                       <li class="{{ $page->selected('about') }}"><a href="/about">Sobre</a></li>
-                      <li class="{{ $page->selected('programming') }}"><a href="/programming">Programação</a></li>
-                      <li class="{{ $page->selected('workshops) }}"><a href="/workshops">Workshops</a></li>
+                      <li><a href="/programming">Programação</a></li>
+                      <li><a href="/workshops">Workshops</a></li>
                       <li class="{{ $page->selected('speakers') }}"><a href="/speakers">Palestrantes</a></li>
                       <li class="{{ $page->selected('sponsors') }}"><a href="/sponsors">Patrocinadores</a></li>
                       <li class="{{ $page->selected('code-of-conduct') }}"><a href="/code-of-conduct">Código de conduta</a></li>
