@@ -13,7 +13,9 @@
             @foreach ($sponsors as $sponsor)
               @if ($sponsor->type === $key)
                 <div class="col-6 col-md-6 col-lg-4">
-                  <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
+                  <a href="{{ $sponsor->url_site }}" target="_blank">
+                    <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
+                  </a>
                 </div>
               @endif
             @endforeach
@@ -21,24 +23,6 @@
         @endforeach
       
         <div class="row mb-5">
-          {{--  <!--<div class="col-6 col-md-6 col-lg-4">
-            <img src="/assets/images/logo_1.png" alt="Image" class="img-fluid">
-          </div>
-          <div class="col-6 col-md-6 col-lg-4">
-            <img src="/assets/images/logo_2.png" alt="Image" class="img-fluid">
-          </div>
-          <div class="col-6 col-md-6 col-lg-4">
-            <img src="/assets/images/logo_3.png" alt="Image" class="img-fluid">
-          </div>
-          <div class="col-6 col-md-6 col-lg-4">
-            <img src="/assets/images/logo_4.png" alt="Image" class="img-fluid">
-          </div>
-          <div class="col-6 col-md-6 col-lg-4">
-            <img src="/assets/images/logo_5.png" alt="Image" class="img-fluid">
-          </div>
-          <div class="col-6 col-md-6 col-lg-4">
-            <img src="/assets/images/logo_6.png" alt="Image" class="img-fluid">
-          </div>-->  --}}
           <div class="col-md-12 col-lg-12 mb-4">
             <h1 class="text-center">Seja um <a href="mailto:{{ $page->event_contact_email ?? '#' }}">patrocinador</a>!</h1>
           </div>
