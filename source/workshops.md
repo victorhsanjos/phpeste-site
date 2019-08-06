@@ -18,4 +18,4 @@ Oficina introdutória para iniciar o desenvolvimento de aplicações web utiliza
 * Investimento único: R$ 190,00
 * Duração: 8 horas
 
-[Clique aqui para garantir sua vaga](https://loja.phpeste.net/phpeste-2019)
+[Clique aqui para garantir sua vaga](https://loja.phpeste.net/phpeste-2019) | [Clique aqui para dúvidas](/contact)
