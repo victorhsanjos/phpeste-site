@@ -16,6 +16,6 @@ Oficina introdutória para iniciar o desenvolvimento de aplicações web utiliza
 * **Apresentação:** Alessandro Feitoza
 * **Vagas:** 18
 * **Investimento único:** R$ 190,00
-* **Data e hora:** 18/10/2019 das 9 às 18 horas.
+* **Data e hora:** 18/10/2019 das 9 às 17 horas.
 
 [Clique aqui para garantir sua vaga](https://loja.phpeste.net/phpeste-2019) | [Clique aqui para dúvidas](/contact)
