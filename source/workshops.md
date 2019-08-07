@@ -11,11 +11,11 @@ Oficina introdutória para iniciar o desenvolvimento de aplicações web utiliza
 
 **Detalhes gerais**
 
-* Público alvo - Iniciante em programação
-* Conhecimento necessário - Programação orientada a objetos
-* Ministrado por Alessandro Feitoza
-* Vagas limitadas
-* Investimento único: R$ 190,00
-* Duração: 8 horas
+* **Nível:** Iniciante 
+* **Conhecimento recomendado:** Programação orientada a objetos
+* **Apresentação:** Alessandro Feitoza
+* **Vagas:** 18
+* **Investimento único:** R$ 190,00
+* **Data e hora:** 18/10/2019 das 9 às 18 horas.
 
 [Clique aqui para garantir sua vaga](https://loja.phpeste.net/phpeste-2019) | [Clique aqui para dúvidas](/contact)
