@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Alessandro
 last_name: Feitoza
-profession: Workshop
+profession: Fortaleza-CE
 website: alessandrofeitoza.eu
 image: /assets/images/uploads/alessandro-php-rapadura.jpg
 section: info
