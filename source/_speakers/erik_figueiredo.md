@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Erik
 last_name: Figueiredo
-profession: Palestra
+profession: Caraguatatuba-SP
 website: 'http://blog.erikfigueiredo.com.br/'
 image: /assets/images/uploads/erik.jpg
 section: info
