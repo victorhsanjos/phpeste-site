@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Aline
 last_name: Chaves
-profession: Palestra
+profession: Fortaleza-CE
 website: 'https://www.linkedin.com/in/aline-chaves/'
 image: /assets/images/uploads/aline-chaves.jpg
 section: info
