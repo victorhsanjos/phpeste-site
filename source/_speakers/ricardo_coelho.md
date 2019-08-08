@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: ' Ricardo'
 last_name: Coelho
-profession: Palestra
+profession: São Luís-MA
 website: 'https://ricardo.coelho.eti.br'
 image: /assets/images/uploads/ricardo-coelho.jpg
 section: info
