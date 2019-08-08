@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Allythy
 last_name: Rennan
-profession: Workshop
+profession: Natal-RN
 website: 'https://allythy.github.io/'
 image: /assets/images/uploads/allythy-rennan.jpg
 section: info
