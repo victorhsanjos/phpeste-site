@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Wellington
 last_name: Silva
-profession: Workshop
+profession: São Paulo-SP
 website: 'https://wfsilva.com/'
 image: /assets/images/uploads/wellington-silva.jpg
 section: info
