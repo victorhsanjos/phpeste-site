@@ -8,7 +8,17 @@
     @include('_partials.styles')
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-65548481-8"></script>
-    <script>
+    <script id="navegg" type="text/javascript">
+      (function(n,v,g){o="Navegg";if(!n[o]){
+        a=v.createElement('script');a.src=g;b=document.getElementsByTagName('script')[0];
+        b.parentNode.insertBefore(a,b);n[o]=n[o]||function(parms){
+        n[o].q=n[o].q||[];n[o].q.push([this, parms])};}})
+      (window, document, 'https://tag.navdmp.com/universal.min.js');
+      window.naveggReady = window.naveggReady||[];
+      window.nvg57395 = new Navegg({
+        acc: 57395
+      });
+      
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
