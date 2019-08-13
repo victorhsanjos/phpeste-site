@@ -3,7 +3,7 @@ extends: _layouts.speaker
 first_name: Jammerson
 last_name: Fernando
 profession: Palestra
-website: phpeste.net
+website: 'https://br.linkedin.com/in/jammersonf'
 image: /assets/images/uploads/jammerson-fernando.jpg
 section: info
 ---
