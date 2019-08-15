@@ -14,7 +14,7 @@
           @if ($sponsor->type === $key)
             <div class="col-6 col-md-6 col-lg-3">
               @if($sponsor->website)
-                <a href="{{ $sponsor->website }}" class="btn btn-primary">
+                <a href="{{ $sponsor->website }}" target="_blank" class="btn">
                   <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
                 </a>
               @else
