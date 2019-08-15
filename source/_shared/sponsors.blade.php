@@ -13,10 +13,12 @@
         @foreach ($sponsors as $sponsor)
           @if ($sponsor->type === $key)
             <div class="col-6 col-md-6 col-lg-3">
-              @if($page->website)
-                <a href="{{ $page->website }}" class="btn btn-primary">
+              @if($sponsor->website)
+                <a href="{{ $sponsor->website }}" class="btn btn-primary">
                   <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
                 </a>
+              @else
+                <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
               @endif
             </div>
           @endif
