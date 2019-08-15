@@ -44,6 +44,7 @@ collections:
     slug: "{{fields.name}}"
     fields:
       - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.simple-page"}
+      - {label: "Website", name: "website", widget: "string"}
       - {label: "Description", name: "name", widget: "string"}
       - {label: "Type", name: "type", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}

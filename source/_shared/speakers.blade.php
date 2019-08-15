@@ -8,7 +8,7 @@
         <div class="row">
           
         @forelse ($speakers as $speaker)
-          <div class="col-md-6 col-lg-4 mb-4">
+          <div class="col-md-6 col-lg-3 mb-3">
             <div class="speaker text-left">
               <a href="{{ $speaker->getPath() }}" class="d-block mb-3 thumbnail"><img src="{{ $speaker->image }}" alt="Image" class="img-fluid"></a>
               <h3 class="heading mb-0"><a href="#"><span>{{ $speaker->first_name }}</span> {{ $speaker->last_name }}</a></h3>
