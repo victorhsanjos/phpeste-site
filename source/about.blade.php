@@ -81,6 +81,9 @@
             <div class="col-6 col-md-6 col-lg-4">
               <img src="/assets/images/comunidades/php-rn.jpg" alt="Image" class="img-fluid">
             </div>
+            <div class="col-6 col-md-6 col-lg-4">
+              <img src="/assets/images/comunidades/php-rs.jpg" alt="Image" class="img-fluid">
+            </div>
           </div>
       </div>
     </div>
