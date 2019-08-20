@@ -2,8 +2,8 @@
 extends: _layouts.speaker
 first_name: 'Ravan '
 last_name: Scafi
-profession: 'https://ravan.me/'
-website: São Paulo-SP
+profession: São Paulo-SP
+website: 'https://ravan.me/'
 image: /assets/images/uploads/ravan-scafi.jpg
 section: info
 ---
