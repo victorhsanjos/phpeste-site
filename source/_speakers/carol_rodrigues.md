@@ -7,4 +7,4 @@ website: 'https://phpeste.net'
 image: /assets/images/uploads/carol-rodrigues.jpg
 section: info
 ---
-Palestrante
+Tester, Desenvolvedora Front-End Jr., Representante das comunidades PHPWomenCE e Front-end CE, estudante de Análise e Desenvolvimento de Sistemas.
