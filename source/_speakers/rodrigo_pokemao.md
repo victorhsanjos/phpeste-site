@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Rodrigo
 last_name: Pokemao
-profession: PHP SP
+profession: São Paulo-SP
 website: 'https://br.linkedin.com/in/pokemaobr'
 image: /assets/images/uploads/pokemao-br.jpg
 section: info
