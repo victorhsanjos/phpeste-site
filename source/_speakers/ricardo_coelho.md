@@ -1,6 +1,6 @@
 ---
 extends: _layouts.speaker
-first_name: ' Ricardo'
+first_name: Ricardo
 last_name: Coelho
 profession: São Luís-MA
 website: 'https://ricardo.coelho.eti.br'
