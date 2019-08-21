@@ -8,7 +8,8 @@ section: pageContent
 <table class="table table-bordered text-center">
   <thead>
     <tr class="table-secondary">
-      <th scope="col" colspan="3">SÁBADO</th>
+      <th scope="col"></th>
+      <th scope="col" colspan="2">SÁBADO</th>
     </tr>
     <tr class="table-secondary">
       <th scope="col"></th>
@@ -85,7 +86,8 @@ section: pageContent
 
   <thead>
     <tr class="table-secondary">
-      <th scope="col" colspan="3">DOMINGO</th>
+      <th scope="col"></th>
+      <th scope="col" colspan="2">DOMINGO</th>
     </tr>
     <tr class="table-secondary">
       <th scope="col"></th>
