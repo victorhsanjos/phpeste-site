@@ -5,13 +5,13 @@ section: pageContent
 ---
 # Programação do evento {.text-center .mb-5}
 
-<table class="table table-bordered text-center">
+<table class="table table-bordered table-hover table-condensed text-center">
   <thead>
-    <tr class="table-secondary">
+    <tr class="thead-dark">
       <th scope="col"></th>
       <th scope="col" colspan="2">SÁBADO</th>
     </tr>
-    <tr class="table-secondary">
+    <tr class="thead-dark">
       <th scope="col"></th>
       <th scope="col">Trilha 1</th>
       <th scope="col">Trilha 2</th>
@@ -19,7 +19,7 @@ section: pageContent
   </thead>
   <tbody>
     <tr>
-      <th scope="row" class="table-secondary">08:00</th>
+      <th scope="row" class="table-secondary" width="100">08:00</th>
       <td colspan="2"><strong>Credênciamento</strong></td>
     </tr>
     <tr>
@@ -83,13 +83,15 @@ section: pageContent
       <td colspan="4"><strong>Encerramento</strong></td>
     </tr>
   </tbody>
+</table>
 
+<table class="table table-bordered text-center">
   <thead>
-    <tr class="table-secondary">
+    <tr class="thead-dark">
       <th scope="col"></th>
       <th scope="col" colspan="2">DOMINGO</th>
     </tr>
-    <tr class="table-secondary">
+    <tr class="thead-dark">
       <th scope="col"></th>
       <th scope="col">Trilha 1</th>
       <th scope="col">Trilha 2</th>
@@ -97,11 +99,7 @@ section: pageContent
   </thead>
   <tbody>
     <tr>
-      <th scope="row" class="table-secondary">08:00</th>
-      <td colspan="2"><strong>Credênciamento</strong></td>
-    </tr>
-    <tr>
-      <th scope="row" class="table-secondary">08:30</th>
+      <th scope="row" class="table-secondary" width="100">08:30</th>
       <td colspan="2"><strong>Abertura</strong></td>
     </tr>
     <tr>
