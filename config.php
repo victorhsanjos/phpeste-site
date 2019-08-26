@@ -15,16 +15,7 @@ return [
     'event_vimeo' => '',
     'categories' => [
         'diamond' => [
-            'description' => 'Diamante',
-        ],
-        'gold' => [
-            'description' => 'Ouro',
-        ],
-        'silver' => [
-            'description' => 'Prata',
-        ],
-        'bronze' => [
-            'description' => 'Bronze',
+            'description' => 'Patrocínadores diamante',
         ],
         'support' => [
             'description' => 'Apoio',
