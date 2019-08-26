@@ -29,12 +29,10 @@ section: pageContent
     <tr>
       <th scope="row" class="table-secondary">08:45</th>
       <td>
-        <td>
-          <h5>Aline Chaves</h5>
-          <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
-          <small>(PHP com Rapadura e PHPWomen)</small><br>
-          Em DDD, domain, que falta eu sinto de você
-        </td>
+        <h5>Aline Chaves</h5>
+        <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
+        <small>(PHP com Rapadura e PHPWomen)</small><br>
+        Em DDD, domain, que falta eu sinto de você
       </td>
       <td>
         <h5>Thiago Barradas</h5>
@@ -46,16 +44,14 @@ section: pageContent
     <tr>
       <th scope="row" class="table-secondary">09:25</th>
       <td>
-        <td>
-          <h5>Kilderson Sena</h5>
-          <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
-          <small>(Comunidade PHP com Rapadura)</small><br>
-          Eu sei que POO é a pedra do teu sapato
-        </td>
+        <h5>Kilderson Sena</h5>
+        <img src="https://phpeste.net/assets/images/uploads/kilderson-sena.jpg" class="img-reponsive rounded-circle" width="100"><br>
+        <small>(Comunidade PHP com Rapadura)</small><br>
+        Eu sei que POO é a pedra do teu sapato
       </td>
       <td>
         <h5>Thiago Barradas</h5>
-        <img src="https://phpeste.net/assets/images/uploads/thiago-barradas.jpg" class="img-reponsive rounded-circle" width="100"><br>
+        <img src="https://phpeste.net/assets/images/uploads/carol-rodrigues.jpg" class="img-reponsive rounded-circle" width="100"><br>
         <small>(PHPWomen Ceará)</small><br>
         Teste Gray box - Aplicação do melhor dos dois mundos
       </td>
