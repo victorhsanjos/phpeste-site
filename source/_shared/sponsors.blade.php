@@ -6,26 +6,26 @@
       </div>
     </div>
     @foreach ($page->categories as $key => $category)
-      <div class="row mb-5">
-        <div class="col-md-12 text-left section-heading">
-          <h4 class="mb-5 text-uppercase">{{ $category->description }}</h4>
-        </div>
-        @foreach ($sponsors as $sponsor)
-          @if ($sponsor->type === $key)
-            @if($sponsor->name)
-              <div class="col-6 col-md-6 col-lg-3">
-                @if($sponsor->website)
-                  <a href="{{ $sponsor->website }}" target="_blank" class="btn">
+      @if (count($sponsors) > 0)
+        <div class="row mb-5">
+          <div class="col-md-12 text-left section-heading">
+            <h4 class="mb-5 text-uppercase">{{ $category->description }}</h4>
+          </div>
+          @foreach ($sponsors as $sponsor)
+            @if ($sponsor->type === $key)
+                <div class="col-6 col-md-6 col-lg-3">
+                  @if($sponsor->website)
+                    <a href="{{ $sponsor->website }}" target="_blank" class="btn">
+                      <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
+                    </a>
+                  @else
                     <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
-                  </a>
-                @else
-                  <img src="{{ $sponsor->image }}" alt="{{ $sponsor->name }}" class="img-fluid">
-                @endif
-              </div>
+                  @endif
+                </div>
             @endif
-          @endif
-        @endforeach
-      </div>
+          @endforeach
+        </div>
+      @endif
     @endforeach
   
     <div class="row mb-5">
