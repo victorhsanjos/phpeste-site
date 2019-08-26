@@ -50,7 +50,7 @@ section: pageContent
         Eu sei que POO é a pedra do teu sapato
       </td>
       <td>
-        <h5>Thiago Barradas</h5>
+        <h5>Carol Rodrigues</h5>
         <img src="https://phpeste.net/assets/images/uploads/carol-rodrigues.jpg" class="img-reponsive rounded-circle" width="100"><br>
         <small>(PHPWomen Ceará)</small><br>
         Teste Gray box - Aplicação do melhor dos dois mundos
@@ -104,7 +104,7 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">16:50</th>
-      <td colspan="3"><strong>Encerramento</strong></td>
+      <td colspan="3"><strong>Sorteio de brindes e encerramento primeiro dia</strong></td>
     </tr>
   </tbody>
 </table>
@@ -184,7 +184,7 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">16:50</th>
-      <td colspan="3"><strong>Encerramento</strong></td>
+      <td colspan="3"><strong>Sorteio de brindes e encerramento da conferência</strong></td>
     </tr>
   </tbody>
 </table>
