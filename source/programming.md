@@ -8,18 +8,18 @@ section: pageContent
 <table class="table table-bordered table-hover table-condensed text-center">
   <thead>
     <tr class="thead-dark">
-      <th scope="col"></th>
+      <th scope="col" width="100"></th>
       <th scope="col" colspan="2">SÁBADO</th>
     </tr>
     <tr class="thead-dark">
       <th scope="col"></th>
-      <th scope="col">Trilha 1</th>
+      <th scope="col" width="44%">Trilha 1</th>
       <th scope="col">Trilha 2</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row" class="table-secondary" width="100">08:00</th>
+      <th scope="row" class="table-secondary">08:00</th>
       <td colspan="2"><strong>Credênciamento</strong></td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@ section: pageContent
     <tr>
       <th scope="row" class="table-secondary">08:45</th>
       <td>
-        <td width="44%">
+        <td>
           <h5>Aline Chaves</h5>
           <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
           <small>(PHP com Rapadura e PHPWomen)</small><br>
@@ -62,7 +62,7 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">10:05</th>
-      <td colspan="3"><strong>Coffe break</strong></td>
+      <td colspan="3"><strong>Coffee break</strong></td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">10:35</th>
@@ -94,7 +94,7 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">14:50</th>
-      <td colspan="4"><strong>Coffe break</strong></td>
+      <td colspan="3"><strong>Coffee break</strong></td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">15:30</th>
@@ -108,7 +108,7 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">16:50</th>
-      <td colspan="4"><strong>Encerramento</strong></td>
+      <td colspan="3"><strong>Encerramento</strong></td>
     </tr>
   </tbody>
 </table>
@@ -116,23 +116,23 @@ section: pageContent
 <table class="table table-bordered text-center">
   <thead>
     <tr class="thead-dark">
-      <th scope="col"></th>
-      <th scope="col" colspan="2">DOMINGO</th>
+      <th scope="col" width="100"></th>
+      <th scope="col" colspan="2">SÁBADO</th>
     </tr>
     <tr class="thead-dark">
       <th scope="col"></th>
-      <th scope="col">Trilha 1</th>
+      <th scope="col" width="44%">Trilha 1</th>
       <th scope="col">Trilha 2</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row" class="table-secondary" width="100">08:30</th>
+      <th scope="row" class="table-secondary">08:30</th>
       <td colspan="2"><strong>Abertura</strong></td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">08:40</th>
-      <td width="44%">Palestra</td>
+      <td>Palestra</td>
       <td>Palestra</td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">10:05</th>
-      <td colspan="3"><strong>Coffe break</strong></td>
+      <td colspan="3"><strong>Coffee break</strong></td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">10:35</th>
@@ -174,7 +174,7 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">14:50</th>
-      <td colspan="4"><strong>Coffe break</strong></td>
+      <td colspan="3"><strong>Coffee break</strong></td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">15:30</th>
@@ -188,7 +188,7 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">16:50</th>
-      <td colspan="4"><strong>Encerramento</strong></td>
+      <td colspan="3"><strong>Encerramento</strong></td>
     </tr>
   </tbody>
 </table>
