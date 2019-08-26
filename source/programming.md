@@ -27,32 +27,60 @@ section: pageContent
       <td colspan="2"><strong>Abertura</strong></td>
     </tr>
     <tr>
-      <th scope="row" class="table-secondary">08:40</th>
+      <th scope="row" class="table-secondary">08:45</th>
+      <td>
+        <td width="44%">
+          <h5>Aline Chaves</h5>
+          <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
+          <small>(PHP com Rapadura e PHPWomen)</small><br>
+          Em DDD, domain, que falta eu sinto de você
+        </td>
+      </td>
+      <td>
+        <h5>Thiago Barradas</h5>
+        <img src="https://phpeste.net/assets/images/uploads/thiago-barradas.jpg" class="img-reponsive rounded-circle" width="100"><br>
+        <small>(Mundipagg)</small><br>
+        Elasticsearch - O motor de busca que está mudando o mercado!
+      </td>
+    </tr>
+    <tr>
+      <th scope="row" class="table-secondary">09:25</th>
+      <td>
+        <td>
+          <h5>Kilderson Sena</h5>
+          <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
+          <small>(Comunidade PHP com Rapadura)</small><br>
+          Eu sei que POO é a pedra do teu sapato
+        </td>
+      </td>
+      <td>
+        <h5>Thiago Barradas</h5>
+        <img src="https://phpeste.net/assets/images/uploads/thiago-barradas.jpg" class="img-reponsive rounded-circle" width="100"><br>
+        <small>(PHPWomen Ceará)</small><br>
+        Teste Gray box - Aplicação do melhor dos dois mundos
+      </td>
+    </tr>
+    <tr>
+      <th scope="row" class="table-secondary">10:05</th>
+      <td colspan="3"><strong>Coffe break</strong></td>
+    </tr>
+    <tr>
+      <th scope="row" class="table-secondary">10:35</th>
       <td>Palestra</td>
       <td>Palestra</td>
     </tr>
     <tr>
-      <th scope="row" class="table-secondary">09:20</th>
+      <th scope="row" class="table-secondary">11:15</th>
       <td>Palestra</td>
       <td>Palestra</td>
     </tr>
     <tr>
-      <th scope="row" class="table-secondary">10:00</th>
-      <td colspan="4"><strong>Coffe break</strong></td>
+      <th scope="row" class="table-secondary">11:55</th>
+      <td colspan="3"><strong>Intervalo</strong></td>
     </tr>
     <tr>
-      <th scope="row" class="table-secondary">10:25</th>
-      <td>Palestra</td>
-      <td>Palestra</td>
-    </tr>
-    <tr>
-      <th scope="row" class="table-secondary">11:05</th>
-      <td>Palestra</td>
-      <td>Palestra</td>
-    </tr>
-    <tr>
-      <th scope="row" class="table-secondary">11:45</th>
-      <td colspan="4"><strong>Intervalo para almoço</strong></td>
+      <th scope="row" class="table-secondary">13:20</th>
+      <td colspan="2">Momento "vamos que vamos"</td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">13:30</th>
@@ -104,31 +132,35 @@ section: pageContent
     </tr>
     <tr>
       <th scope="row" class="table-secondary">08:40</th>
+      <td width="44%">Palestra</td>
+      <td>Palestra</td>
+    </tr>
+    <tr>
+      <th scope="row" class="table-secondary">09:25</th>
       <td>Palestra</td>
       <td>Palestra</td>
     </tr>
     <tr>
-      <th scope="row" class="table-secondary">09:20</th>
+      <th scope="row" class="table-secondary">10:05</th>
+      <td colspan="3"><strong>Coffe break</strong></td>
+    </tr>
+    <tr>
+      <th scope="row" class="table-secondary">10:35</th>
       <td>Palestra</td>
       <td>Palestra</td>
     </tr>
     <tr>
-      <th scope="row" class="table-secondary">10:00</th>
-      <td colspan="4"><strong>Coffe break</strong></td>
-    </tr>
-    <tr>
-      <th scope="row" class="table-secondary">10:25</th>
+      <th scope="row" class="table-secondary">11:15</th>
       <td>Palestra</td>
       <td>Palestra</td>
     </tr>
     <tr>
-      <th scope="row" class="table-secondary">11:05</th>
-      <td>Palestra</td>
-      <td>Palestra</td>
+      <th scope="row" class="table-secondary">11:55</th>
+      <td colspan="3"><strong>Intervalo</strong></td>
     </tr>
     <tr>
-      <th scope="row" class="table-secondary">11:45</th>
-      <td colspan="4"><strong>Intervalo para almoço</strong></td>
+      <th scope="row" class="table-secondary">13:20</th>
+      <td colspan="2">Momento "vamos que vamos"</td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">13:30</th>
