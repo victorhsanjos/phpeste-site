@@ -7,4 +7,5 @@ website: 'https://www.linkedin.com/in/aline-chaves/'
 image: /assets/images/uploads/aline-chaves.jpg
 section: info
 ---
+
 Analista de sistemas, Desenvolvedora, Representante da PHPWomen CE, Bacharel em sistemas de informação, palestrante.

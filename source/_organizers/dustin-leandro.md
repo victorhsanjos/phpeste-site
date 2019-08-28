@@ -3,9 +3,8 @@ extends: _layouts.organizer
 first_name: Dustin
 last_name: Leandro
 profession: Organizador
+website: 'http://'
 image: /assets/images/uploads/dustin.jpg
-social:
-  LinkedIn: "https://www.linkedin.com/in/dustin-leandro-9187a1115/"
 section: info
 ---
 
