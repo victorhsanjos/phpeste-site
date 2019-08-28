@@ -59,7 +59,7 @@ collections:
       - {label: "Name", name: "speaker", widget: "string"}
       - {label: "Modal", name: "modal", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "section", widget: "image"}
+      - {label: "Description", name: "section", widget: "hidden", default: "info"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     folder: "source" # The path to the folder where the documents are stored
