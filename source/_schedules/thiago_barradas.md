@@ -1,5 +1,5 @@
 ---
-extends: \_layouts.simple-page
+extends: _layouts.simple-page
 speaker: Thiago Barradas
 modal: thiago
 title: Elasticsearch - O motor de busca que está mudando o mercado!

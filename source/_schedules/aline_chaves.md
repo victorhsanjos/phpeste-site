@@ -1,5 +1,5 @@
 ---
-extends: \_layouts.simple-page
+extends: _layouts.simple-page
 speaker: Aline Chaves
 modal: aline
 title: Em DDD, domain, que falta eu sinto de você
