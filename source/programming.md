@@ -30,7 +30,7 @@ section: pageContent
     <tr>
       <th scope="row" class="table-secondary">08:45</th>
       <td>
-        <a href="#" data-toggle="modal" data-target="#myModal">
+        <a href="#" data-toggle="modal" data-target="#aline">
           <h5>Aline Chaves</h5>
           <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
           <small>(PHP com Rapadura e PHPWomen)</small><br>
@@ -38,7 +38,7 @@ section: pageContent
         </a>
       </td>
       <td>
-        <a href="#">
+        <a href="#" data-toggle="modal" data-target="#thiago">
           <h5>Thiago Barradas</h5>
           <img src="https://phpeste.net/assets/images/uploads/thiago-barradas.jpg" class="img-reponsive rounded-circle" width="100"><br>
           <small>(Mundipagg)</small><br>

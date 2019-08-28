@@ -1518,6 +1518,16 @@ body > div.site-wrap > div.site-section.bg-light > div > div > div > table.table
           transform: translate3d(0%, 0, 0);
 }
 
+div > div > div.modal-header h4 {
+  font-size: 25px;
+  font-weight: 600;
+  margin-left: 8px;
+}
+
+.modal-title-text {
+  text-align: center;
+  margin-top: 16px;
+}
 .modal.right .modal-content {
   height: 100%;
   overflow-y: auto;
