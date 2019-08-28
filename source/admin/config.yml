@@ -48,6 +48,18 @@ collections:
       - {label: "Description", name: "name", widget: "string"}
       - {label: "Type", name: "type", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
+  - name: "programming"
+    label: "programming"
+    folder: "source/programming"
+    create: true
+    identifier_field: name
+    slug: "{{fields.name}}"
+    fields:
+      - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.simple-page"}
+      - {label: "Name", name: "speaker", widget: "string"}
+      - {label: "Modal", name: "modal", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "section", widget: "image"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     folder: "source" # The path to the folder where the documents are stored
