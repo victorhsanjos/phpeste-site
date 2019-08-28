@@ -3,6 +3,7 @@ extends: _layouts.simple-page
 title: Programação
 section: pageContent
 ---
+
 # Programação do evento {.text-center .mb-5}
 
 <table class="table table-bordered table-hover table-condensed text-center">
@@ -29,31 +30,39 @@ section: pageContent
     <tr>
       <th scope="row" class="table-secondary">08:45</th>
       <td>
-        <h5>Aline Chaves</h5>
-        <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
-        <small>(PHP com Rapadura e PHPWomen)</small><br>
-        Em DDD, domain, que falta eu sinto de você
+        <a href="#" data-toggle="modal" data-target="#aline">
+          <h5>Aline Chaves</h5>
+          <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
+          <small>(PHP com Rapadura e PHPWomen)</small><br>
+          Em DDD, domain, que falta eu sinto de você
+        </a>
       </td>
       <td>
-        <h5>Thiago Barradas</h5>
-        <img src="https://phpeste.net/assets/images/uploads/thiago-barradas.jpg" class="img-reponsive rounded-circle" width="100"><br>
-        <small>(Mundipagg)</small><br>
-        Elasticsearch - O motor de busca que está mudando o mercado!
+        <a href="#" data-toggle="modal" data-target="#thiago">
+          <h5>Thiago Barradas</h5>
+          <img src="https://phpeste.net/assets/images/uploads/thiago-barradas.jpg" class="img-reponsive rounded-circle" width="100"><br>
+          <small>(Mundipagg)</small><br>
+          Elasticsearch - O motor de busca que está mudando o mercado!
+        </a>
       </td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">09:25</th>
       <td>
-        <h5>Kilderson Sena</h5>
-        <img src="https://phpeste.net/assets/images/uploads/kilderson-sena.jpg" class="img-reponsive rounded-circle" width="100"><br>
-        <small>(Comunidade PHP com Rapadura)</small><br>
-        Eu sei que POO é a pedra do teu sapato
+        <a href="#">
+          <h5>Kilderson Sena</h5>
+          <img src="https://phpeste.net/assets/images/uploads/kilderson-sena.jpg" class="img-reponsive rounded-circle" width="100"><br>
+          <small>(Comunidade PHP com Rapadura)</small><br>
+          Eu sei que POO é a pedra do teu sapato
+        </a>
       </td>
       <td>
-        <h5>Carol Rodrigues</h5>
-        <img src="https://phpeste.net/assets/images/uploads/carol-rodrigues.jpg" class="img-reponsive rounded-circle" width="100"><br>
-        <small>(PHPWomen Ceará)</small><br>
-        Teste Gray box - Aplicação do melhor dos dois mundos
+        <a href="#">
+          <h5>Carol Rodrigues</h5>
+          <img src="https://phpeste.net/assets/images/uploads/carol-rodrigues.jpg" class="img-reponsive rounded-circle" width="100"><br>
+          <small>(PHPWomen Ceará)</small><br>
+          Teste Gray box - Aplicação do melhor dos dois mundos
+        </a>
       </td>
     </tr>
     <tr>
