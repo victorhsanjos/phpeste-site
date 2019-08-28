@@ -48,9 +48,9 @@ collections:
       - {label: "Description", name: "name", widget: "string"}
       - {label: "Type", name: "type", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-  - name: "programming"
-    label: "programming"
-    folder: "source/programming"
+  - name: "schedules"
+    label: "Schedules"
+    folder: "source/schedules"
     create: true
     identifier_field: name
     slug: "{{fields.name}}"
