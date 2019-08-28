@@ -23,6 +23,7 @@
 
     <!-- Modal -->  
   @foreach($programming as $speaker)
+  
     <div class="modal right fade" id="{{$speaker->modal}}" tabindex="-1" role="dialog" aria-labelledby="{{$speaker->modal}}-speaker">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
