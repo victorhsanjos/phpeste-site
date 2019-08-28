@@ -1,11 +1,6 @@
----
-extends: _layouts.simple-page
-title: Programação
-section: pageContent
----
+@extends('_layouts.master')
 
-# Programação do evento {.text-center .mb-5}
-
+@section('content')
 <table class="table table-bordered table-hover table-condensed text-center">
   <thead>
     <tr class="thead-dark">
@@ -197,3 +192,4 @@ section: pageContent
     </tr>
   </tbody>
 </table>
+@endsection
