@@ -91,11 +91,13 @@
               </a>
             </div>
             <div class="col-6 col-md-6 col-lg-4">
-              <a href="https://twitter.com" target="_blank">
+              <a href="https://twitter.com/phprn" target="_blank">
               <img src="/assets/images/comunidades/php-rn.jpg" alt="Image" class="img-fluid">
             </div>
             <div class="col-6 col-md-6 col-lg-4">
-              <img src="/assets/images/comunidades/php-rs.jpg" alt="Image" class="img-fluid">
+              <a href="https://phprs.com.br" target="_blank">
+                <img src="/assets/images/comunidades/php-rs.jpg" alt="Image" class="img-fluid">
+              </a>
             </div>
             <div class="col-6 col-md-6 col-lg-4">
               <a href="https://codar.app" target="_blank">
