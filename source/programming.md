@@ -9,7 +9,7 @@ section: pageContent
   <thead>
     <tr class="thead-dark">
       <th scope="col" width="100"></th>
-      <th scope="col" colspan="2">SÁBADO</th>
+      <th scope="col" colspan="2">SÁBADO 19/10</th>
     </tr>
     <tr class="thead-dark">
       <th scope="col"></th>
@@ -84,7 +84,7 @@ section: pageContent
         Estruturando um SaaS multi-tenant no ecosistema da AWS
       </td>
       <td>
-        <h5>A definir</h5>
+        <h5>Em definição</h5>
         <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
         <small>(--)</small><br>
         --
@@ -141,7 +141,7 @@ section: pageContent
         PHP-CS-FIXER: Automatizando o code review
       </td>
       <td>
-        <h5>A definir</h5>
+        <h5>Em definição</h5>
         <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
         <small>(--)</small><br>
         --
@@ -159,11 +159,11 @@ section: pageContent
   </tbody>
 </table>
 
-<table class="table table-bordered text-center">
+<table class="table table-bordered table-hover table-condensed text-center">
   <thead>
     <tr class="thead-dark">
       <th scope="col" width="100"></th>
-      <th scope="col" colspan="2">SÁBADO</th>
+      <th scope="col" colspan="2">DOMINGO 20/10</th>
     </tr>
     <tr class="thead-dark">
       <th scope="col"></th>
@@ -200,7 +200,7 @@ section: pageContent
         MongoDB e PHP: o que você precisa saber para começar
       </td>
       <td>
-        <h5>A definir</h5>
+        <h5>Em definição</h5>
         <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
         <small>(--)</small><br>
         --
@@ -257,7 +257,7 @@ section: pageContent
         Você conhece seu framework PHP?
       </td>
       <td>
-        <h5>A definir</h5>
+        <h5>Em definição</h5>
         <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
         <small>(--)</small><br>
         --
