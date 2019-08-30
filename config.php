@@ -33,6 +33,10 @@ return [
         'speakers' => [
             'path' => 'speakers',
             'sort' => 'first_name',
+        ],
+        'schedules' => [
+            'path' => 'schedules',
+            'sort' => 'speaker',
         ]
     ],
     'selected' => function ($page, $section) {
