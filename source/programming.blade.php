@@ -10,7 +10,7 @@
       </div>
     </div>
   </div>  
-  
-  @include('_shared.programming', ['title' => 'Programação'])
+
+  @include('_shared.programming', ['title' => 'Programação do evento'])
   @include('_shared.contact-info')
 @endsection
