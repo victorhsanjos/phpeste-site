@@ -1,8 +1,9 @@
 ---
-extends: _layouts.simple-page
+extends: _layouts.programming
 title: Programação
 section: pageContent
 ---
+
 # Programação do evento {.text-center .mb-5}
 
 <table class="table table-bordered table-hover table-condensed text-center">
@@ -29,10 +30,12 @@ section: pageContent
     <tr>
       <th scope="row" class="table-secondary">08:45</th>
       <td>
+      <a href="#" data-toggle="modal" data-target="#aline">
         <h5>Aline Chaves</h5>
         <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
         <small>(PHP com Rapadura e PHPWomen)</small><br>
         Em DDD, domain, que falta eu sinto de você
+      </a>
       </td>
       <td>
         <h5>Thiago Barradas</h5>

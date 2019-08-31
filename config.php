@@ -34,7 +34,7 @@ return [
             'path' => 'speakers',
             'sort' => 'first_name',
         ],
-        'speakers' => [
+        'programming' => [
             'path' => 'programming',
             'sort' => 'speaker',
         ]
