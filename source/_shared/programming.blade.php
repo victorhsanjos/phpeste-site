@@ -1,4 +1,5 @@
-<div class="site-section">
+<h3 class="modal-title modal-title-text mt-5">{{ $title }}</h3>
+<div class="site-section pt-5">
     <div class="container">
         <table class="table table-bordered table-hover table-condensed text-center">
             <thead>
@@ -24,10 +25,12 @@
                 <tr>
                     <th scope="row" class="table-secondary">08:45</th>
                     <td>
-                    <h5>Aline Chaves</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(PHP com Rapadura e PHPWomen)</small><br>
-                    Em DDD, domain, que falta eu sinto de você
+                    <a href="#" data-toggle="modal" data-target="#aline">
+                        <h5>Aline Chaves</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(PHP com Rapadura e PHPWomen)</small><br>
+                        Em DDD, domain, que falta eu sinto de você
+                    </a>
                     </td>
                     <td>
                     <h5>Thiago Barradas</h5>
