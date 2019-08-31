@@ -1500,7 +1500,7 @@ body > div.site-wrap > div.site-section.comunidades {
   padding: 0 !important;
 }
 
-body > div.site-wrap > div.site-section.bg-light > div > div > div > table.table.table-bordered.table-hover.table-condensed.text-center > tbody > tr > td > a {
+body > div.site-wrap > div.site-section.pt-5 > div > table > tbody > tr > td > a {
   color: #151515;
 }
 /*******************************

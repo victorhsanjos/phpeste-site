@@ -1,4 +1,5 @@
-<div class="site-section">
+<h3 class="modal-title modal-title-text mt-5">{{ $title }}</h3>
+<div class="site-section pt-5">
     <div class="container">
         <table class="table table-bordered table-hover table-condensed text-center">
             <thead>
@@ -24,10 +25,12 @@
                 <tr>
                     <th scope="row" class="table-secondary">08:45</th>
                     <td>
-                    <h5>Aline Chaves</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(PHP com Rapadura e PHPWomen)</small><br>
-                    Em DDD, domain, que falta eu sinto de você
+                    <a href="#" data-toggle="modal" data-target="#aline">
+                        <h5>Aline Chaves</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/aline-chaves.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(PHP com Rapadura e PHPWomen)</small><br>
+                        Em DDD, domain, que falta eu sinto de você
+                    </a>
                     </td>
                     <td>
                     <h5>Thiago Barradas</h5>
@@ -304,3 +307,28 @@
         </table>
     </div>
 </div>
+
+<!-- Modal -->  
+@foreach($programming as $speaker)
+    <div class="modal right fade" id="{{$speaker->modal}}" tabindex="-1" role="dialog" aria-labelledby="{{$speaker->modal}}-speaker">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title header-text" id="{{$speaker->modal}}-speaker">{{$speaker->speaker}}</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <h3 class="modal-title modal-title-text">{{$speaker->title}}</h3>
+                <div class="modal-body">
+                    <p>
+                        {{$speaker->section}}
+                    </p>
+                </div>
+            </div><!-- modal-content -->
+        </div><!-- modal-dialog -->
+    </div><!-- modal -->
+@endforeach
+  
+
+    
