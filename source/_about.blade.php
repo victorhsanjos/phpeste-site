@@ -1,9 +1,12 @@
 <div class="site-section">
       <div class="container">
         <div class="row">
-          <div class="col-md-7 mx-auto text-left section-heading">
+          <div class="col-md-7 mx-auto text-center section-heading">
             <h2 class="mb-5 text-uppercase">A conferência</h2>
           </div>
+        </div>
+        <div class="col-md-7 mx-auto text-center section-heading">
+            <div id="date-countdown" class="mb-4"></div>
         </div>
         <div class="row justify-content-center">
           <div class="col-12">
