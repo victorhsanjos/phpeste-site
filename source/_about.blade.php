@@ -1,3 +1,27 @@
+<?php if (date('Y-m-d') == '2019-09-13') { ?>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">Novidade no dia do programador</h4>
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+      </div>
+      <div class="modal-body">
+        Temos uma surpresa para você, hoje dia do programador estamos te dando 30% de desconto na compra de seu ingresso.
+        <br><br>
+        Acesse <a href="https://loja.phpeste.net">https://loja.phpeste.net</a> e garanta jã seu ingresso utilizando o cupom <b>DiaDoProgramador</b>.
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+setTimeout(function() {
+    $('#myModal').modal();
+}, 4000);
+</script>
+<?php } ?>
+
 <div class="site-section">
       <div class="container">
         <div class="row">
