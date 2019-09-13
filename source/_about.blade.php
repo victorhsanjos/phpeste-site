@@ -9,7 +9,7 @@
       <div class="modal-body">
         Temos uma surpresa para você, hoje dia do programador estamos te dando 30% de desconto na compra de seu ingresso.
         <br><br>
-        Acesse <a href="https://loja.phpeste.net">https://loja.phpeste.net</a> e garanta jã seu ingresso utilizando o cupom <b>DiaDoProgramador</b>.
+        Acesse <a href="https://loja.phpeste.net">https://loja.phpeste.net</a> e garanta já seu ingresso utilizando o cupom <b>DiaDoProgramador</b>.
       </div>
     </div>
   </div>
