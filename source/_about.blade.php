@@ -1,4 +1,3 @@
-<?php if (date('Y-m-d') == '2019-09-13') { ?>
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -17,10 +16,10 @@
 
 <script>
 setTimeout(function() {
-    $('#myModal').modal();
+    //$('#myModal').modal();
 }, 4000);
 </script>
-<?php } ?>
+
 
 <div class="site-section">
       <div class="container">
