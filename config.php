@@ -15,10 +15,10 @@ return [
     'event_vimeo' => '',
     'categories' => [
         'diamond' => [
-            'description' => 'Patrocínadores diamante',
+            'description' => 'Diamante',
         ],
         'gold' => [
-            'description' => 'Patrocínadores ouro',
+            'description' => 'Ouro',
         ],
         'support' => [
             'description' => 'Apoio',
