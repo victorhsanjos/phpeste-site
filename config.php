@@ -17,6 +17,9 @@ return [
         'diamond' => [
             'description' => 'Patrocínadores diamante',
         ],
+        'gold' => [
+            'description' => 'Patrocínadores ouro',
+        ],
         'support' => [
             'description' => 'Apoio',
         ],
