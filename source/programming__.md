@@ -200,10 +200,10 @@ section: pageContent
         MongoDB e PHP: o que você precisa saber para começar
       </td>
       <td>
-        <h5>Inovação e competitividade: os desafios de manter um software com 20 anos de existencia.</h5>
+        <h5>Henrique Barros</h5>
         <img src="https://phpeste.net/assets/images/uploads/henrique-barros.png" class="img-reponsive rounded-circle" width="100"><br>
         <small>(ScriptCase)</small><br>
-        Henrique Barros
+        Inovação e competitividade: os desafios de manter um software com 20 anos de existencia.
       </td>
     </tr>
     <tr>
