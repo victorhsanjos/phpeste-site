@@ -188,17 +188,16 @@
                 <tr>
                     <th scope="row" class="table-secondary">09:25</th>
                     <td>
-                    <h5>Ravan Scafi</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/ravan-scafi.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(Leroy Merlin Brasil)</small><br>
-                    MongoDB e PHP: o que você precisa saber para começar
+                        <h5>Ravan Scafi</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/ravan-scafi.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(Leroy Merlin Brasil)</small><br>
+                        MongoDB e PHP: o que você precisa saber para começar
                     </td>
                     <td>
-                    <td>
-                    <h5>Henrique Barros</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/henrique-barros.png" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(ScriptCase)</small><br>
-                    Inovação e competitividade: os desafios de manter um software com 20 anos de existencia.
+                        <h5>Henrique Barros</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/henrique-barros.png" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(ScriptCase)</small><br>
+                        Inovação e competitividade: os desafios de manter um software com 20 anos de existencia.
                     </td>
                 </tr>
                 <tr>
