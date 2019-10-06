@@ -53,7 +53,7 @@
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">10:05</th>
-                    <td colspan="3"><strong>Coffee break</strong></td>
+                    <td colspan="2"><strong>Intervalo</strong></td>
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">10:35</th>
@@ -87,7 +87,7 @@
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">11:55</th>
-                    <td colspan="3"><strong>Intervalo</strong></td>
+                    <td colspan="2"><strong>Intervalo</strong></td>
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">13:20</th>
@@ -125,7 +125,7 @@
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">14:50</th>
-                    <td colspan="3"><strong>Coffee break</strong></td>
+                    <td colspan="2"><strong>Intervalo</strong></td>
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">15:30</th>
@@ -144,12 +144,11 @@
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">16:10</th>
-                    <td>Palestra</td>
-                    <td>Palestra</td>
+                    <td colspan="2">Painel das comunidades mais arretadas do Brasil</td>
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">16:50</th>
-                    <td colspan="3"><strong>Sorteio de brindes e encerramento primeiro dia</strong></td>
+                    <td colspan="2"><strong>Sorteio de brindes e encerramento primeiro dia</strong></td>
                 </tr>
             </tbody>
         </table>
@@ -202,7 +201,7 @@
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">10:05</th>
-                    <td colspan="3"><strong>Coffee break</strong></td>
+                    <td colspan="2"><strong>Intervalo</strong></td>
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">10:35</th>
@@ -236,7 +235,7 @@
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">11:55</th>
-                    <td colspan="3"><strong>Intervalo</strong></td>
+                    <td colspan="2"><strong>Intervalo</strong></td>
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">13:20</th>
@@ -274,7 +273,7 @@
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">14:50</th>
-                    <td colspan="3"><strong>Coffee break</strong></td>
+                    <td colspan="2"><strong>Intervalo</strong></td>
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">15:30</th>
@@ -293,12 +292,11 @@
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">16:10</th>
-                    <td>Palestra</td>
-                    <td>Palestra</td>
+                    <td colspan="2">Painel das comunidades mais arretadas do Brasil</td>
                 </tr>
                 <tr>
                     <th scope="row" class="table-secondary">16:50</th>
-                    <td colspan="3"><strong>Sorteio de brindes e encerramento da conferência</strong></td>
+                    <td colspan="2"><strong>Sorteio de brindes e encerramento da conferência</strong></td>
                 </tr>
             </tbody>
         </table>
