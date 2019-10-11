@@ -2,7 +2,7 @@
 extends: _layouts.speaker
 first_name: Adolfo
 last_name: Pereira
-profession: Curitiba
+profession: Curitiba-PR
 website: 'https://madeiramadeira.com.br'
 image: /assets/images/uploads/adolfo-pereira.jpg
 section: info
