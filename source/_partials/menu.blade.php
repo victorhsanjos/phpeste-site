@@ -26,8 +26,8 @@
                     <ul class="site-menu js-clone-nav d-none">
                       <li><a href="/">Home</a></li>
                       <li class="{{ $page->selected('about') }}"><a href="/about">Sobre</a></li>
-                      <li><a href="https://loja.phpeste.net/produtos/index/workshop">Programação</a></li>
-                      <li><a href="/workshops">Workshops</a></li>
+                      <li><a href="/programming">Programação</a></li>
+                      <li><a href="https://loja.phpeste.net/produtos/index/workshop">Workshops</a></li>
                       <li class="{{ $page->selected('speakers') }}"><a href="/speakers">Palestrantes</a></li>
                       <li class="{{ $page->selected('sponsors') }}"><a href="/sponsors">Patrocinadores</a></li>
                       <li class="{{ $page->selected('code-of-conduct') }}"><a href="/code-of-conduct">Código de conduta</a></li>
