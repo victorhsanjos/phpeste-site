@@ -20,7 +20,7 @@ section: pageContent
   <tbody>
     <tr>
       <th scope="row" class="table-secondary">08:00</th>
-      <td colspan="2"><strong>Credênciamento</strong></td>
+      <td colspan="2"><strong>Credenciamento</strong></td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">08:30</th>

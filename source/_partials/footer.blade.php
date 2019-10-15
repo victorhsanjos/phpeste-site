@@ -23,7 +23,7 @@
               <ul class="list-unstyled">
                 <li><a href="/contact">Contato</a></li>
                 <li><a href="/workshops">Workshops</a></li>
-                <li><a href="/programming">Programação</a></li>
+                <li><a href="https://loja.phpeste.net/produtos/index/workshop">Programação</a></li>
                 <li><a href="/contact">Seja um patrocinador</a></li>
               </ul>
           </div>
