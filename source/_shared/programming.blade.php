@@ -79,10 +79,10 @@
                     Estruturando um SaaS multi-tenant no ecosistema da AWS
                     </td>
                     <td>
-                    <h5>Em definição</h5>
-                    <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
+                    <h5>Adolfo Pereira</h5>
+                    <img src="https://phpeste.net/assets/images/uploads/adolfo-pereira.jpg" class="img-reponsive rounded-circle" width="100"><br>
                     <small>(MadeiraMadeira)</small><br>
-                    --
+                    Fique tranquilo com JSON Schema
                     </td>
                 </tr>
                 <tr>
@@ -136,10 +136,10 @@
                     PHP-CS-FIXER: Automatizando o code review
                     </td>
                     <td>
-                    <h5>Em definição</h5>
-                    <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(--)</small><br>
-                    --
+                    <h5>Roque Junior</h5>
+                    <img src="https://phpeste.net/assets/images/uploads/palestrante-roque.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                    <small>(Elemidia)</small><br>
+                    Bora descomplicar o pagamento usando PagSeguro?
                     </td>
                 </tr>
                 <tr>
