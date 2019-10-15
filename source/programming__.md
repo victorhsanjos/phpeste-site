@@ -86,7 +86,7 @@ section: pageContent
       <td>
         <h5>Em definição</h5>
         <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
-        <small>(--)</small><br>
+        <small>(MadeiraMadeira)</small><br>
         --
       </td>
     </tr>
@@ -107,19 +107,19 @@ section: pageContent
         Docker Swarm vs Kubernetes
       </td>
       <td>
-        <h5>Paulo Victor</h5>
-        <img src="https://phpeste.net/assets/images/uploads/paulo-victor.jpg" class="img-reponsive rounded-circle" width="100"><br>
-        <small>(Nubank)</small><br>
-        PHP as a Service
+        <h5>Em definição</h5>
+        <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
+        <small>(--)</small><br>
+        --
       </td>
     </tr>
     <tr>
       <th scope="row" class="table-secondary">14:10</th>
       <td>
-        <h5>Mariana Gomes</h5>
-        <img src="https://phpeste.net/assets/images/uploads/mariana-gomes.jpg" class="img-reponsive rounded-circle" width="100"><br>
-        <small>(BRQ Digital Solutions)</small><br>
-        Laradock - Agilidade no ambiente de desenvolvimento
+        <h5>Em definição</h5>
+        <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
+        <small>(--)</small><br>
+        --
       </td>
       <td>
         <h5>Davi Marcondes</h5>
@@ -200,10 +200,10 @@ section: pageContent
         MongoDB e PHP: o que você precisa saber para começar
       </td>
       <td>
-        <h5>Em definição</h5>
-        <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
-        <small>(--)</small><br>
-        --
+        <h5>Henrique Barros</h5>
+        <img src="https://phpeste.net/assets/images/uploads/henrique-barros.png" class="img-reponsive rounded-circle" width="100"><br>
+        <small>(ScriptCase)</small><br>
+        Inovação e competitividade: os desafios de manter um software com 20 anos de existencia.
       </td>
     </tr>
     <tr>
@@ -237,7 +237,7 @@ section: pageContent
         <h5>Vicente Martins</h5>
         <img src="https://phpeste.net/assets/images/uploads/vicente-martins.jpg" class="img-reponsive rounded-circle" width="100"><br>
         <small>(Ni Digital Studio)</small><br>
-        PHP & SVG Templates: Instant Docs
+        PHP Tooling - O canivete suiço que todo dev PHP deveria conhecer
       </td>
     </tr>
     <tr>
