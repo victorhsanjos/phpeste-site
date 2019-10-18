@@ -136,10 +136,10 @@
                         PHP-CS-FIXER: Automatizando o code review
                     </td>
                     <td>
-                        <h5>Em definição</h5>
-                        <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
-                        <small>(--)</small><br>
-                        --
+                        <h5>Rodrigo Pokemao</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/pokemao-br.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(PHP SP)</small><br>
+                        Ecossistema PHP - O presente, o passado e o futuro da linguagem back-end mais utilizada na web
                     </td>
                 </tr>
                 <tr>
@@ -278,10 +278,10 @@
                 <tr>
                     <th scope="row" class="table-secondary">15:30</th>
                     <td>
-                    <h5>Rodrigo Pokemao</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/pokemao-br.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(PHP SP)</small><br>
-                    WebScrapping com Selenium Webdriver
+                        <h5>Rodrigo Pokemao</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/pokemao-br.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(PHP SP)</small><br>
+                        WebScrapping com Selenium Webdriver
                     </td>
                     <td>
                     <h5>Marcos Felipe</h5>
