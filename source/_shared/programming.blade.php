@@ -111,10 +111,10 @@
                 <tr>
                     <th scope="row" class="table-secondary">14:10</th>
                     <td>
-                        <h5>Em definição</h5>
-                        <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
-                        <small>(--)</small><br>
-                        --
+                        <h5>Jair Ventura</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/jair.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(Sistema Jornal do Commercio)</small><br>
+                        Como não fazer um site
                     </td>
                     <td>
                     <h5>Davi Marcondes</h5>
@@ -130,16 +130,16 @@
                 <tr>
                     <th scope="row" class="table-secondary">15:30</th>
                     <td>
-                    <h5>Alessandro Feitoza</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/alessandro-php-rapadura.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(Darkmira)</small><br>
-                    PHP-CS-FIXER: Automatizando o code review
+                        <h5>Alessandro Feitoza</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/alessandro-php-rapadura.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(Darkmira)</small><br>
+                        PHP-CS-FIXER: Automatizando o code review
                     </td>
                     <td>
-                    <h5>Roque Junior</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/palestrante-roque.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(Elemidia)</small><br>
-                    Bora descomplicar o pagamento usando PagSeguro?
+                        <h5>Em definição</h5>
+                        <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(--)</small><br>
+                        --
                     </td>
                 </tr>
                 <tr>
@@ -230,7 +230,7 @@
                     <h5>Vicente Martins</h5>
                     <img src="https://phpeste.net/assets/images/uploads/vicente-martins.jpg" class="img-reponsive rounded-circle" width="100"><br>
                     <small>(Ni Digital Studio)</small><br>
-                    PHP & SVG Templates: Instant Docs
+                    PHP Tooling - O canivete suiço que todo dev PHP deveria conhecer
                     </td>
                 </tr>
                 <tr>
@@ -244,16 +244,16 @@
                 <tr>
                     <th scope="row" class="table-secondary">13:30</th>
                     <td>
-                    <h5>Erik Figueiredo</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/erik.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(PHP SP)</small><br>
-                    Você conhece seu framework PHP?
+                        <h5>Erik Figueiredo</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/erik.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(PHP SP)</small><br>
+                        Você conhece seu framework PHP?
                     </td>
                     <td>
-                    <h5>Em definição</h5>
-                    <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(--)</small><br>
-                    --
+                        <h5>Roque Junior</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/palestrante-roque.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(Elemidia)</small><br>
+                        Bora descomplicar o pagamento usando PagSeguro?
                     </td>
                 </tr>
                 <tr>
