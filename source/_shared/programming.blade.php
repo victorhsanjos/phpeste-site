@@ -39,10 +39,10 @@
                 <tr>
                     <th scope="row" class="table-secondary">09:25</th>
                     <td>
-                    <h5>Kilderson Sena</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/kilderson-sena.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(Comunidade PHP com Rapadura)</small><br>
-                    Eu sei que POO é a pedra do teu sapato
+                        <h5>Davi Marcondes</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/davi-marcondes.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(Pagar.me)</small><br>
+                        Evolua Seu Código usando Tipos de Dados do PHP7
                     </td>
                     <td>
                     <h5>Carol Rodrigues</h5>
@@ -117,10 +117,10 @@
                         Como não fazer um site
                     </td>
                     <td>
-                    <h5>Davi Marcondes</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/davi-marcondes.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(Pagar.me)</small><br>
-                    Evolua Seu Código usando Tipos de Dados do PHP7
+                        <h5>Jammerson Fernando</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/jammerson-fernando.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(PHP PB)</small><br>
+                        Vamos falar sobre versionamento de BD?
                     </td>
                 </tr>
                 <tr>
@@ -265,10 +265,10 @@
                     Criando mecanismos de autenticação seguros
                     </td>
                     <td>
-                    <h5>Jammerson Fernando</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/jammerson-fernando.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(PHP PB)</small><br>
-                    Vamos falar sobre versionamento de BD?
+                        <h5>Kilderson Sena</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/kilderson-sena.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(Comunidade PHP com Rapadura)</small><br>
+                        Eu sei que POO é a pedra do teu sapato
                     </td>
                 </tr>
                 <tr>
