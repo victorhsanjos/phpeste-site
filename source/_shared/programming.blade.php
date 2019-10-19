@@ -64,10 +64,10 @@
                     Introdução a versionamento com Git e GitLab
                     </td>
                     <td>
-                    <h5>Luan Fonseca</h5>
-                    <img src="https://phpeste.net/assets/images/uploads/luan-fonseca.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                    <small>(Speakerfight/Labcodes)</small><br>
-                    Porque Débito Técnico vai estragar teu software
+                        <h5>Rodrigo Pokemao</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/pokemao-br.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(PHP SP)</small><br>
+                        Ecossistema PHP - O presente, o passado e o futuro da linguagem back-end mais utilizada na web
                     </td>
                 </tr>
                 <tr>
@@ -102,10 +102,10 @@
                     Docker Swarm vs Kubernetes
                     </td>
                     <td>
-                        <h5>Em definição</h5>
-                        <img src="https://dummyimage.com/100x100/000/fff" class="img-reponsive rounded-circle" width="100"><br>
-                        <small>(--)</small><br>
-                        --
+                        <h5>Gabriel Soares</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/gabriel.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(Mobic)</small><br>
+                        Entendendo melhor a relação preço x custo do projeto
                     </td>
                 </tr>
                 <tr>
@@ -136,10 +136,10 @@
                         PHP-CS-FIXER: Automatizando o code review
                     </td>
                     <td>
-                        <h5>Rodrigo Pokemao</h5>
-                        <img src="https://phpeste.net/assets/images/uploads/pokemao-br.jpg" class="img-reponsive rounded-circle" width="100"><br>
-                        <small>(PHP SP)</small><br>
-                        Ecossistema PHP - O presente, o passado e o futuro da linguagem back-end mais utilizada na web
+                        <h5>Len Lorijn</h5>
+                        <img src="https://phpeste.net/assets/images/uploads/len.jpg" class="img-reponsive rounded-circle" width="100"><br>
+                        <small>(Holanda)</small><br>
+                        Introduction to Magento (inglês)
                     </td>
                 </tr>
                 <tr>
