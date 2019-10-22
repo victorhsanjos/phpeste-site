@@ -4,6 +4,12 @@ first_name: 'Vicente '
 last_name: 'Martins '
 profession: João Pessoa-PB
 website: 'https://twitter.com/vicentimartins'
+link_palestra1: 'https://slides.com/vicentemartins/phpeste2019'
+nome_palestra1: PHP Tooling - O canivete suíço que todo dev PHP deveria conhecer
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/vicente-martins.jpg
 section: info
 ---
