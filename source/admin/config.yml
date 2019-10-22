@@ -33,6 +33,12 @@ collections:
       - {label: "Last name", name: "last_name", widget: "string"}
       - {label: "Profession", name: "profession", widget: "string"}
       - {label: "Website", name: "website", widget: "string"}
+      - {label: "Link da Palestra 1", name: "link_palestra1", widget: "string"}
+      - {label: "Texto para palestra 1", name: "nome_palestra1", widget: "string"}
+      - {label: "Link da Palestra 2", name: "link_palestra2", widget: "string"}
+      - {label: "Texto para palestra 2", name: "nome_palestra2", widget: "string"}
+      - {label: "Palestras", name: "link_palestras", widget: "string"}
+      - {label: "Texto para palestras", name: "nome_palestras", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Section", name: "section", widget: "hidden", default: "info"}
       - {label: "Body", name: "body", widget: "markdown"}
