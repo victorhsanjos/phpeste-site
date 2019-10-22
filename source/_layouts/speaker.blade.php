@@ -26,19 +26,19 @@
             @yield('info')
 
             @if($page->website)
-              <p><a href="{{ $page->website }}" class="btn btn-primary">Visite o site</a></p>
+              <p><a href="{{ $page->website }}" class="btn btn-primary" target="_blank">Visite o site</a></p>
             @endif
 
             @if($page->link_palestra1 != ' ' && $page->link_palestra1 != '')
-              <p><a href="{{ $page->link_palestra1 }}" class="btn btn-primary">{{ $page->nome_palestra1 }}</a></p>
+              <p><a href="{{ $page->link_palestra1 }}" class="btn btn-primary" target="_blank">{{ $page->nome_palestra1 }}</a></p>
             @endif
 
             @if($page->link_palestra2 != ' ' && $page->link_palestra2 != '')
-              <p><a href="{{ $page->link_palestra2 }}" class="btn btn-primary">{{ $page->nome_palestra2 }}</a></p>
+              <p><a href="{{ $page->link_palestra2 }}" class="btn btn-primary" target="_blank">{{ $page->nome_palestra2 }}</a></p>
             @endif
 
             @if($page->link_palestras != ' ' && $page->link_palestras != '')
-              <p><a href="{{ $page->link_palestras }}" class="btn btn-primary">{{ $page->nome_palestras }}</a></p>
+              <p><a href="{{ $page->link_palestras }}" class="btn btn-primary" target="_blank">{{ $page->nome_palestras }}</a></p>
             @endif
           </div>
           
