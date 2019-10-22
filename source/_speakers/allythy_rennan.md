@@ -6,10 +6,10 @@ profession: Natal-RN
 website: 'https://allythy.github.io/'
 link_palestra1: 'http://slides.com/allythy/introducao-ao-git-gitlab'
 nome_palestra1: Palestra - Introdução ao Git e GitLab
-link_palestra2: a
-nome_palestra2: a
-link_palestras: a
-nome_palestras: a
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/allythy-rennan.jpg
 section: info
 ---
