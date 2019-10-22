@@ -4,6 +4,12 @@ first_name: 'Ravan '
 last_name: Scafi
 profession: São Paulo-SP
 website: 'https://ravan.me/'
+link_palestra1: 'https://mongodb-e-php.ravan.me/'
+nome_palestra1: 'MongoDB com PHP: pensando NoSQL'
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/ravan-scafi.jpg
 section: info
 ---
