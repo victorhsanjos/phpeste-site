@@ -4,6 +4,12 @@ first_name: Marcos
 last_name: 'Felipe '
 profession: Bauru-SP
 website: 'http://omark.dev/'
+link_palestra1: 'https://speakerdeck.com/omarkdev/criando-aplicacoes-serverless-com-php'
+nome_palestra1: Palestra - Criando aplicações serverless com PHP
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/marcos-felipe.jpg
 section: info
 ---
