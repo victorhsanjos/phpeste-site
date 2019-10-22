@@ -4,6 +4,12 @@ first_name: 'William '
 last_name: Correa
 profession: Vila Velha-ES
 website: 'https://twitter.com/wilcorrea'
+link_palestra1: 'https://slides.com/wilcorrea/phpeste-vuejs-e-php'
+nome_palestra1: Palestra - Criando interfaces com Vue.js no bom e velho PHP
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/william-correa.jpg
 section: info
 ---

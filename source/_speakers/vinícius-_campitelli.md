@@ -4,6 +4,12 @@ first_name: 'Vinícius '
 last_name: 'Campitelli '
 profession: São Paulo-SP
 website: 'https://viniciuscampitelli.com/'
+link_palestra1: 'https://viniciuscampitelli.com/slides-mecanismos-autenticacao-seguros/'
+nome_palestra1: Palestra - Criando mecanismos de autenticação seguros
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/vinicius-campitelli.jpg
 section: info
 ---
