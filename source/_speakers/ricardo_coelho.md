@@ -5,7 +5,7 @@ last_name: Coelho
 profession: São Luís-MA
 website: 'https://ricardo.coelho.eti.br'
 link_palestra1: 'https://speakerdeck.com/ramcoelho/php-and-svg-templates-instant-docs'
-nome_palestra1: 'PHP & SVG Templates: Instant Docs'
+nome_palestra1: 'Palestra - PHP & SVG Templates: Instant Docs'
 link_palestra2: ' '
 nome_palestra2: ' '
 link_palestras: ' '
