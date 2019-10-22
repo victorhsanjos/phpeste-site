@@ -5,7 +5,7 @@ last_name: Rennan
 profession: Natal-RN
 website: 'https://allythy.github.io/'
 link_palestra1: 'http://slides.com/allythy/introducao-ao-git-gitlab'
-nome_palestra1: Introdução ao Git e GitLab
+nome_palestra1: Palestra - Introdução ao Git e GitLab
 link_palestra2: a
 nome_palestra2: a
 link_palestras: a
