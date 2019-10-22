@@ -4,6 +4,13 @@ first_name: Roque
 last_name: Junior
 profession: Recife-PE
 website: 'https://elemidia.com.br'
+link_palestra1: >-
+  https://www.slideshare.net/roquesz/bora-descomplicar-o-pagamento-usando-pagseguro
+nome_palestra1: Palestra - Bora descomplicar o pagamento usando Pagseguro
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/palestrante-roque.jpg
 section: info
 ---
