@@ -29,15 +29,15 @@
               <p><a href="{{ $page->website }}" class="btn btn-primary">Visite o site</a></p>
             @endif
 
-            @if(!empty($page->link_palestra1))
+            @if($page->link_palestra1 != 'a')
               <p><a href="{{ $page->link_palestra1 }}" class="btn btn-primary">{{ $page->nome_palestra1 }}</a></p>
             @endif
 
-            @if(!empty($page->link_palestra2))
+            @if($page->link_palestra2 != 'a')
               <p><a href="{{ $page->link_palestra2 }}" class="btn btn-primary">{{ $page->nome_palestra2 }}</a></p>
             @endif
 
-            @if(!empty($page->link_palestras))
+            @if($page->link_palestras != 'a')
               <p><a href="{{ $page->link_palestras }}" class="btn btn-primary">{{ $page->nome_palestras }}</a></p>
             @endif
           </div>
