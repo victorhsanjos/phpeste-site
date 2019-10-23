@@ -47,6 +47,8 @@
                         <img src="https://phpeste.net/assets/images/uploads/davi-marcondes.jpg" class="img-reponsive rounded-circle" width="100"><br>
                         <small>(Pagar.me)</small><br>
                         Evolua Seu Código usando Tipos de Dados do PHP7
+                        <br>
+                        <a href="http://slides.com/devdrops/tipos-de-dados-phpeste-2019" target="_blank">ver slide</a>
                     </td>
                     <td>
                     <h5>Carol Rodrigues</h5>
