@@ -4,6 +4,13 @@ first_name: Gabriel
 last_name: Soares
 profession: Recife - PE
 website: 'http://mobic.com.br'
+link_palestra1: >-
+  https://drive.google.com/file/d/1gsfRjKADumSSJLl9ozmt-LUFQEVxnVom/view?usp=sharing
+nome_palestra1: Palestra - Entendendo melhor a precificação de um projeto
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/gabriel.jpg
 section: info
 ---
