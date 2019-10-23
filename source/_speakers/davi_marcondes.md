@@ -4,6 +4,12 @@ first_name: Davi
 last_name: 'Marcondes '
 profession: São Paulo-SP
 website: 'https://twitter.com/devdrops'
+link_palestra1: 'http://slides.com/devdrops/tipos-de-dados-phpeste-2019'
+nome_palestra1: Palestra - Evolua Seu Código usando Tipos de Dados do PHP7
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/davi-marcondes.jpg
 section: info
 ---
