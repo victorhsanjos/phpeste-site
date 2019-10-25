@@ -4,6 +4,12 @@ first_name: Adiel
 last_name: Cristo
 profession: Salvador-BA
 website: 'http://phpba.com.br'
+link_palestra1: 'https://drive.google.com/open?id=1w6mgJNMXg6mcc9vwzXo-fTkB8sGTtmXD'
+nome_palestra1: Palestra - Entregando Bons Resultados  com BDD
+link_palestra2: ' '
+nome_palestra2: ' '
+link_palestras: ' '
+nome_palestras: ' '
 image: /assets/images/uploads/adiel.jpg
 section: info
 ---
